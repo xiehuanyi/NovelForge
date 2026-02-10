@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gemini 3 Hackathon Demo · Novel Agents</title>
+  <link rel="stylesheet" href="/static/css/app.css" />
+  <style>
+    /* Project Grid Styles */
+    .project-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .project-header {
+      margin-bottom: 30px;
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .project-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 20px;
+    }
+
+    .project-card {
+      background: var(--bg-card);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 20px;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: flex;
+      flex-direction: column;
+      height: 180px;
+      position: relative;
+    }
+
+    .project-card:hover {
+      transform: translateY(-4px);
+      border-color: var(--accent);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    }
+
+    .project-card .card-title {
+      font-weight: 600;
+      font-size: 1.2em;
+      margin-bottom: 8px;
+      color: var(--text);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+    }
+
+    .project-card .card-meta {
+      font-size: 0.85em;
+      color: var(--text-muted);
+      margin-top: auto;
+    }
+
+    .project-card.new-project-card {
+      background: transparent;
+      border: 2px dashed var(--line);
+      align-items: center;
+      justify-content: center;
+      color: var(--text-muted);
+    }
+
+    .project-card.new-project-card:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+      background: rgba(0, 0, 0, 0.02);
+    }
+
+    .project-card.new-project-card .icon {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+      font-weight: 300;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        Novel Agents
+        <span>Gemini 3 Hackathon Demo</span>
+      </div>
+
+      <div class="sidebar-project-display">
+        <input type="text" id="project-selector-display" readonly value="No Project"
+          style="width:100%; background:transparent; border:none; color:var(--text-muted); text-align:center; margin-bottom:10px;">
+      </div>
+
+      <nav class="nav">
+        <button class="nav-btn active" data-view="projects">Projects</button>
+        <button class="nav-btn" data-view="create">Create</button>
+        <button class="nav-btn" data-view="reviews">Reviews</button>
+      </nav>
+      <div class="sidebar-footer" id="sidebar-meta">Total Tokens: 0</div>
+    </aside>
+
+    <main class="main">
+      <!-- Projects View (Start Here) -->
+      <section id="view-projects" class="view active">
+        <div class="project-container">
+          <div class="project-header">
+            <h2>My Projects</h2>
+            <div style="font-size: 0.9em; color: var(--text-muted);">Manage your creative works</div>
+          </div>
+          <div class="project-grid" id="project-dashboard">
+            <!-- Card: Create New -->
+            <div class="project-card new-project-card" id="card-create-new">
+              <div class="icon">+</div>
+              <div>Create New Series</div>
+            </div>
+            <!-- JS will inject other cards here -->
+          </div>
+        </div>
+      </section>
+
+      <!-- Create / Chat View -->
+      <section id="view-create" class="view">
+        <div class="chat-layout">
+          <div class="chat-panel">
+            <div class="chat-header">
+              <h2>Creative Chat</h2>
+              <div class="meta">Conversation Driven Creation</div>
+            </div>
+
+            <div class="chat-log" id="chat-log"></div>
+
+            <div class="chat-input">
+              <textarea id="chat-input" placeholder="Type message, use @ to mention agents..."
+                maxlength="6000"></textarea>
+              <button id="send-btn">Send</button>
+            </div>
+            <div id="mention-menu" class="mention-menu"></div>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- Reviews View -->
+      <section id="view-reviews" class="view">
+        <div class="preview-layout">
+          <div class="shelf">
+            <h3>Chapters</h3>
+            <div class="shelf-grid" id="chapter-list"></div>
+          </div>
+          <div class="reader">
+            <div class="reader-header" style="display: flex; justify-content: space-between; align-items: center;">
+              <h2 id="reader-title">Select a Chapter</h2>
+              <div class="reader-actions">
+                <button id="edit-chapter-btn" style="display:none;" class="action-btn">Edit</button>
+                <button id="save-chapter-btn" style="display:none; background: var(--accent);"
+                  class="action-btn">Save</button>
+              </div>
+            </div>
+            <div class="reader-content" id="reader-content">No Content</div>
+            <textarea id="reader-editor"
+              style="display:none; width:100%; height: calc(100% - 60px); background: var(--bg-card); color: var(--text); padding: 20px; border: 1px solid var(--line); resize: none; font-family: inherit; line-height: 1.6;"></textarea>
+          </div>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <script src="/static/js/app.js"></script>
+</body>
+
+</html>

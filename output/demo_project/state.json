@@ -1,0 +1,144 @@
+{
+  "spec": {
+    "title": "",
+    "idea": "",
+    "chapters": 5,
+    "chapter_words": 2000,
+    "volumes": 1,
+    "batch_size": 5
+  },
+  "models": {
+    "intent": "gemini-3-flash-preview",
+    "architect": "gemini-3-flash-preview",
+    "profiler": "gemini-3-flash-preview",
+    "weaver": "gemini-3-flash-preview",
+    "slicer": "gemini-3-flash-preview",
+    "writer": "gemini-3-flash-preview",
+    "checker": "gemini-3-flash-preview",
+    "memory": "gemini-3-flash-preview"
+  },
+  "project_slug": "demo_project",
+  "chat_log": [
+    {
+      "id": "1770236496892-guide-assistant",
+      "role": "assistant",
+      "agent_id": "guide",
+      "content": "欢迎来到 Novel Agents。请用一句话告诉我你的创作灵感：",
+      "timestamp": 1770236496.8924065
+    },
+    {
+      "id": "1770236496893-guide-user",
+      "role": "user",
+      "agent_id": "guide",
+      "content": "写我给写一个ai",
+      "timestamp": 1770236496.8930125
+    },
+    {
+      "id": "1770236524517-guide-assistant",
+      "role": "assistant",
+      "agent_id": "guide",
+      "content": "已派发给 @编剧：基于现有的 Series Bible 和角色设定，围绕“AI”这一主题，创作包含 5 个章节的详细大纲，并确保每章内容足以支撑约 2000 字的篇幅。",
+      "timestamp": 1770236524.5174015
+    },
+    {
+      "id": "1770236524517-weaver-assistant",
+      "role": "assistant",
+      "agent_id": "weaver",
+      "content": "{\"chapter\": 1, \"title\": \"尘埃中的脉冲\", \"summary\": \"铁甲因其沉重外壳能发出奇异的电磁频率被蚁群视为“异类”放逐，在森林边缘偶遇对“视野”有极致追求的跳跳，两人意外发现铁壳能干扰人类登山者的智能探测器。\", \"role\": \"开端\", \"focus\": [\"铁甲\", \"跳跳\"], \"cliffhanger\": \"人类的智能靴踏碎了岩石，铁甲的外壳在恐惧中首次亮起了一道类似AI加载条的蓝光。\"}\n{\"chapter\": 2, \"title\": \"逻辑的灵脉\", \"summary\": \"进入喜马拉雅低地，铁甲发现所谓的灵脉竟是某种远古生物AI遗留的能量节点，他通过接入节点学会了计算风力矢量（风行术），却引来了同样追求“数字进化”的暴君裂地。\", \"role\": \"发展\", \"focus\": [\"铁甲\", \"裂地\"], \"cliffhanger\": \"裂地发动了能让生物感知产生“延迟”的重力冲击，铁甲的逻辑核心陷入死循环。\"}\n{\"chapter\": 3, \"title\": \"冰川防火墙\", \"summary\": \"在万年冰川带，守护者白灵揭示了铁甲外壳的真相：它是一枚存储着自然进化算法的硬件。铁甲在极寒中被迫开启“系统升级”，外壳在零下四十度开始产生剧烈的物理重组。\", \"role\": \"转折\", \"focus\": [\"铁甲\", \"白灵\", \"蚁后·黑曜\"], \"cliffhanger\": \"升级过程被裂地打断，铁甲坠入深不见底的冰裂缝，外壳自毁程序倒计时开启。\"}\n{\"chapter\": 4, \"title\": \"万米虚空对决\", \"summary\": \"在海拔八千米的生命禁区，铁甲以半生物半数字的“拟态化”形态回归，与已经彻底数据化的裂地展开最终对决，两者在稀薄空气中进行了一场关于生命真谛与AI效率的辩论。理论与暴力交织。\", \"role\": \"高潮\", \"focus\": [\"铁甲\", \"裂地\"], \"cliffhanger\": \"裂地因无法理解“微尘”的随机性导致逻辑崩溃坠落，而铁甲的肉身也达到了极限，开始崩解。\"}\n{\"chapter\": 5, \"title\": \"微尘奇点\", \"summary\": \"铁甲成功登顶，他的意识通过外壳的最后脉冲上传至“天空之境”——一个覆盖全球的宏观生态监测网络。他虽失去了实体，却化作守护整座山脉的AI意识，俯瞰众生。\", \"role\": \"收束\", \"focus\": [\"铁甲\", \"跳跳\"], \"cliffhanger\": \"多年后，一名人类登山者的镜头拍到了一只闪烁着幽蓝光芒的透明甲虫，那是无法被科学定义的奇迹。\"}\n\n——\n下一步：开始写作（Writer）。",
+      "timestamp": 1770236524.5178173,
+      "trigger_auto_gen": true
+    }
+  ],
+  "threads": {
+    "guide": [
+      {
+        "role": "assistant",
+        "content": "欢迎来到 Novel Agents。请用一句话告诉我你的创作灵感："
+      },
+      {
+        "role": "user",
+        "content": "写我给写一个ai"
+      }
+    ],
+    "weaver": [
+      {
+        "role": "user",
+        "content": "基于现有的 Series Bible 和角色设定，围绕“AI”这一主题，创作包含 5 个章节的详细大纲，并确保每章内容足以支撑约 2000 字的篇幅。"
+      },
+      {
+        "role": "assistant",
+        "content": "{\"chapter\": 1, \"title\": \"尘埃中的脉冲\", \"summary\": \"铁甲因其沉重外壳能发出奇异的电磁频率被蚁群视为“异类”放逐，在森林边缘偶遇对“视野”有极致追求的跳跳，两人意外发现铁壳能干扰人类登山者的智能探测器。\", \"role\": \"开端\", \"focus\": [\"铁甲\", \"跳跳\"], \"cliffhanger\": \"人类的智能靴踏碎了岩石，铁甲的外壳在恐惧中首次亮起了一道类似AI加载条的蓝光。\"}\n{\"chapter\": 2, \"title\": \"逻辑的灵脉\", \"summary\": \"进入喜马拉雅低地，铁甲发现所谓的灵脉竟是某种远古生物AI遗留的能量节点，他通过接入节点学会了计算风力矢量（风行术），却引来了同样追求“数字进化”的暴君裂地。\", \"role\": \"发展\", \"focus\": [\"铁甲\", \"裂地\"], \"cliffhanger\": \"裂地发动了能让生物感知产生“延迟”的重力冲击，铁甲的逻辑核心陷入死循环。\"}\n{\"chapter\": 3, \"title\": \"冰川防火墙\", \"summary\": \"在万年冰川带，守护者白灵揭示了铁甲外壳的真相：它是一枚存储着自然进化算法的硬件。铁甲在极寒中被迫开启“系统升级”，外壳在零下四十度开始产生剧烈的物理重组。\", \"role\": \"转折\", \"focus\": [\"铁甲\", \"白灵\", \"蚁后·黑曜\"], \"cliffhanger\": \"升级过程被裂地打断，铁甲坠入深不见底的冰裂缝，外壳自毁程序倒计时开启。\"}\n{\"chapter\": 4, \"title\": \"万米虚空对决\", \"summary\": \"在海拔八千米的生命禁区，铁甲以半生物半数字的“拟态化”形态回归，与已经彻底数据化的裂地展开最终对决，两者在稀薄空气中进行了一场关于生命真谛与AI效率的辩论。理论与暴力交织。\", \"role\": \"高潮\", \"focus\": [\"铁甲\", \"裂地\"], \"cliffhanger\": \"裂地因无法理解“微尘”的随机性导致逻辑崩溃坠落，而铁甲的肉身也达到了极限，开始崩解。\"}\n{\"chapter\": 5, \"title\": \"微尘奇点\", \"summary\": \"铁甲成功登顶，他的意识通过外壳的最后脉冲上传至“天空之境”——一个覆盖全球的宏观生态监测网络。他虽失去了实体，却化作守护整座山脉的AI意识，俯瞰众生。\", \"role\": \"收束\", \"focus\": [\"铁甲\", \"跳跳\"], \"cliffhanger\": \"多年后，一名人类登山者的镜头拍到了一只闪烁着幽蓝光芒的透明甲虫，那是无法被科学定义的奇迹。\"}\n\n——\n下一步：开始写作（Writer）。"
+      }
+    ]
+  },
+  "chapter_meta": {
+    "CH0008": {
+      "chapter": 8,
+      "title": "数据流之火",
+      "status": "needs_review"
+    },
+    "CH0012": {
+      "chapter": 12,
+      "title": "第十二章冰脊上的风行者",
+      "status": "needs_review"
+    },
+    "CH0004": {
+      "chapter": 4,
+      "title": "巨神的阴影",
+      "status": "needs_review"
+    },
+    "CH0009": {
+      "chapter": 9,
+      "title": "深渊凝视",
+      "status": "needs_review"
+    },
+    "CH0006": {
+      "chapter": 6,
+      "title": "霜风之刃与巨神的足迹",
+      "status": "needs_review"
+    },
+    "CH0001": {
+      "chapter": 1,
+      "title": "微尘的觉醒",
+      "status": "needs_review"
+    },
+    "CH0013": {
+      "chapter": 13,
+      "title": "裂隙中的苍蓝风暴",
+      "status": "needs_review"
+    },
+    "CH0007": {
+      "chapter": 7,
+      "title": "巨神的馈赠",
+      "status": "needs_review"
+    },
+    "CH0002": {
+      "chapter": 2,
+      "title": "风起微尘裂痕中的觉醒",
+      "status": "needs_review"
+    },
+    "CH0005": {
+      "chapter": 5,
+      "title": "冰霜初触觉醒之刻",
+      "status": "needs_review"
+    },
+    "CH0003": {
+      "chapter": 3,
+      "title": "草甸的寒风",
+      "status": "needs_review"
+    },
+    "CH0010": {
+      "chapter": 10,
+      "title": "裂痕中的风",
+      "status": "needs_review"
+    },
+    "CH0011": {
+      "chapter": 11,
+      "title": "第十一章裂痕生风",
+      "status": "needs_review"
+    }
+  },
+  "flow_stage": "weaver",
+  "created_at": 0.0,
+  "updated_at": 1770236709.4583657
+}
