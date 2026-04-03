@@ -1,0 +1,1783 @@
+{
+  "state_林渊_10": {
+    "key": "state_林渊_10",
+    "category": "semantic",
+    "content": "林渊: 从劫后余生的逃亡者转变为决心复仇并打破牢笼的觉醒者。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch10"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775133030.5343144
+  },
+  "state_王铁柱_10": {
+    "key": "state_王铁柱_10",
+    "category": "semantic",
+    "content": "王铁柱: 从潜伏的杀手转变为牺牲自我以传递真相的殉道者。",
+    "tags": [
+      "state",
+      "王铁柱",
+      "ch10"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775133030.534643
+  },
+  "state_村落长老_10": {
+    "key": "state_村落长老_10",
+    "category": "semantic",
+    "content": "村落长老: 伪善面具被撕下，确认为勾结万神殿、策划献祭的幕后黑手。",
+    "tags": [
+      "state",
+      "村落长老",
+      "ch10"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775133030.53499
+  },
+  "state_沈五_10": {
+    "key": "state_沈五_10",
+    "category": "semantic",
+    "content": "沈五: 死因由意外确认为被王铁柱杀害，因其拒绝配合献祭计划。",
+    "tags": [
+      "state",
+      "沈五",
+      "ch10"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775133030.535358
+  },
+  "state_林渊_20": {
+    "key": "state_林渊_20",
+    "category": "semantic",
+    "content": "林渊: 从单纯警惕转变为主动谈判，试图确认核心真相。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch20"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775133371.5227792
+  },
+  "state_秦无双_20": {
+    "key": "state_秦无双_20",
+    "category": "semantic",
+    "content": "秦无双: 身份暴露，从被保护者变为关键情报持有者与牺牲品。",
+    "tags": [
+      "state",
+      "秦无双",
+      "ch20"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775133371.5232637
+  },
+  "state_苏清婉_20": {
+    "key": "state_苏清婉_20",
+    "category": "semantic",
+    "content": "苏清婉: 组织“无信者”正式介入，掌握王铁柱死因线索。",
+    "tags": [
+      "state",
+      "苏清婉",
+      "ch20"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775133371.5235238
+  },
+  "state_信任关系_20": {
+    "key": "state_信任关系_20",
+    "category": "semantic",
+    "content": "信任关系: 林渊对秦无双的信任动摇，三方博弈局势彻底形成。",
+    "tags": [
+      "state",
+      "信任关系",
+      "ch20"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775133371.5236914
+  },
+  "state_林渊_30": {
+    "key": "state_林渊_30",
+    "category": "semantic",
+    "content": "林渊: 从被动等待转为主动出击，制定针对万神殿的刺杀计划。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch30"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775133762.632329
+  },
+  "state_装备状态_30": {
+    "key": "state_装备状态_30",
+    "category": "semantic",
+    "content": "装备状态: 获得特制合金匕首及能遮蔽灵识波动的千面人面具。",
+    "tags": [
+      "state",
+      "装备状态",
+      "ch30"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775133762.6325598
+  },
+  "state_局势认知_30": {
+    "key": "state_局势认知_30",
+    "category": "semantic",
+    "content": "局势认知: 明确神位剥夺需精准切割规则，将名单视为手术刀使用。",
+    "tags": [
+      "state",
+      "局势认知",
+      "ch30"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775133762.6327784
+  },
+  "state_林渊_40": {
+    "key": "state_林渊_40",
+    "category": "semantic",
+    "content": "林渊: 从逃亡者转变为掌握封神榜书写权的秩序重塑者与革命领袖。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch40"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775134193.7370293
+  },
+  "state_万神殿众神_40": {
+    "key": "state_万神殿众神_40",
+    "category": "semantic",
+    "content": "万神殿众神: 力量源头被切断，神格透明化，从统治者沦为被碾压的囚徒。",
+    "tags": [
+      "state",
+      "万神殿众神",
+      "ch40"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775134193.73727
+  },
+  "state_封神榜系统_40": {
+    "key": "state_封神榜系统_40",
+    "category": "semantic",
+    "content": "封神榜系统: 核心权限被篡改，原本绝对服从的意志暂时瘫痪并失效。",
+    "tags": [
+      "state",
+      "封神榜系统",
+      "ch40"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775134193.7375035
+  },
+  "state_景微_40": {
+    "key": "state_景微_40",
+    "category": "semantic",
+    "content": "景微: 作为幕后观察者正式介入，揭示当前局势仅为更大博弈的开端。",
+    "tags": [
+      "state",
+      "景微",
+      "ch40"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775134193.7377555
+  },
+  "state_林渊_50": {
+    "key": "state_林渊_50",
+    "category": "semantic",
+    "content": "林渊: 正式接手最终决策权，从逃亡者转变为革命领袖。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch50"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775134640.0354214
+  },
+  "state_秦无双_50": {
+    "key": "state_秦无双_50",
+    "category": "semantic",
+    "content": "秦无双: 确认牺牲，遗物移交档案库，身份转为殉道者。",
+    "tags": [
+      "state",
+      "秦无双",
+      "ch50"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775134640.0356936
+  },
+  "state_林伯安_50": {
+    "key": "state_林伯安_50",
+    "category": "semantic",
+    "content": "林伯安: 决定留守后方切断退路，与林渊进行生死告别。",
+    "tags": [
+      "state",
+      "林伯安",
+      "ch50"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775134640.0359342
+  },
+  "state_战场局势_50": {
+    "key": "state_战场局势_50",
+    "category": "semantic",
+    "content": "战场局势: 从潜伏备战突变为遭遇神罚降临的危机时刻。",
+    "tags": [
+      "state",
+      "战场局势",
+      "ch50"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775134640.0361495
+  },
+  "state_万神殿_50": {
+    "key": "state_万神殿_50",
+    "category": "semantic",
+    "content": "万神殿: 面临多方围剿，信仰节点被强制制造动静分散兵力。",
+    "tags": [
+      "state",
+      "万神殿",
+      "ch50"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775134640.0363631
+  },
+  "state_秦无双_60": {
+    "key": "state_秦无双_60",
+    "category": "semantic",
+    "content": "秦无双: 从警惕幸存者变为险些沦为祭品的幻境受害者。",
+    "tags": [
+      "state",
+      "秦无双",
+      "ch60"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775135072.8598437
+  },
+  "state_林渊_60": {
+    "key": "state_林渊_60",
+    "category": "semantic",
+    "content": "林渊: 从逃亡者转变为直面前世/未来线索的觉醒者。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch60"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775135072.8604543
+  },
+  "state_神秘少年_60": {
+    "key": "state_神秘少年_60",
+    "category": "semantic",
+    "content": "神秘少年: 从被囚禁状态苏醒，向外界传递“杀我”信号。",
+    "tags": [
+      "state",
+      "神秘少年",
+      "ch60"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775135072.8610384
+  },
+  "state_封神榜系统_60": {
+    "key": "state_封神榜系统_60",
+    "category": "semantic",
+    "content": "封神榜系统: 核心真相显现，揭示“神位已朽”与逆封终局。",
+    "tags": [
+      "state",
+      "封神榜系统",
+      "ch60"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775135072.8616507
+  },
+  "state_林渊_70": {
+    "key": "state_林渊_70",
+    "category": "semantic",
+    "content": "林渊: 从逃亡者转变为决心拆毁神殿的革命领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch70"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775135490.2831225
+  },
+  "state_封神榜系统_70": {
+    "key": "state_封神榜系统_70",
+    "category": "semantic",
+    "content": "封神榜系统: 核心真相曝光，神位被揭示为囚禁与收割工具",
+    "tags": [
+      "state",
+      "封神榜系统",
+      "ch70"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775135490.2834394
+  },
+  "state_空白名字_70": {
+    "key": "state_空白名字_70",
+    "category": "semantic",
+    "content": "空白名字: 从空缺位置确认为预设的破坏者收容容器",
+    "tags": [
+      "state",
+      "空白名字",
+      "ch70"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775135490.2837486
+  },
+  "state_神秘人_70": {
+    "key": "state_神秘人_70",
+    "category": "semantic",
+    "content": "神秘人: 因灵魂警告被迫中断关键信息的传递",
+    "tags": [
+      "state",
+      "神秘人",
+      "ch70"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775135490.2840583
+  },
+  "state_林渊_80": {
+    "key": "state_林渊_80",
+    "category": "semantic",
+    "content": "林渊: 从犹豫觉醒者转变为决意自毁式毁灭神权的革命领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch80"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775135839.8790605
+  },
+  "state_封神榜系统_80": {
+    "key": "state_封神榜系统_80",
+    "category": "semantic",
+    "content": "封神榜系统: 核心权限被林渊主动切断，由接管转为提供破坏利刃",
+    "tags": [
+      "state",
+      "封神榜系统",
+      "ch80"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775135839.8797536
+  },
+  "state_神秘白衣女子_80": {
+    "key": "state_神秘白衣女子_80",
+    "category": "semantic",
+    "content": "神秘白衣女子: 从虚无阴影中显现，身份疑似与林渊前世或本源相关",
+    "tags": [
+      "state",
+      "神秘白衣女子",
+      "ch80"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775135839.88041
+  },
+  "state_林渊_90": {
+    "key": "state_林渊_90",
+    "category": "semantic",
+    "content": "林渊: 从逃亡者转变为掌握核心真相与改写规则能力的革命领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch90"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775136262.9510574
+  },
+  "state_景微_90": {
+    "key": "state_景微_90",
+    "category": "semantic",
+    "content": "景微: 从中立势力头领被确认为守护神权收割机制的守墓人",
+    "tags": [
+      "state",
+      "景微",
+      "ch90"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775136262.9514093
+  },
+  "state_封神榜系统_90": {
+    "key": "state_封神榜系统_90",
+    "category": "semantic",
+    "content": "封神榜系统: 从单纯收割工具转变为需摧毁的核心源头，神位本质曝光",
+    "tags": [
+      "state",
+      "封神榜系统",
+      "ch90"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775136262.95175
+  },
+  "state_林渊能力_90": {
+    "key": "state_林渊能力_90",
+    "category": "semantic",
+    "content": "林渊能力: 获得剥夺神位、改写规则及灵魂层面升华的隐性增强",
+    "tags": [
+      "state",
+      "林渊能力",
+      "ch90"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775136262.952088
+  },
+  "state_封神榜系统_100": {
+    "key": "state_封神榜系统_100",
+    "category": "semantic",
+    "content": "封神榜系统: 核心机密泄露，防御机制重构并转为主动清除模式",
+    "tags": [
+      "state",
+      "封神榜系统",
+      "ch100"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775136613.2874541
+  },
+  "state_林渊_100": {
+    "key": "state_林渊_100",
+    "category": "semantic",
+    "content": "林渊: 从逃亡者彻底转变为正面硬刚神权秩序的决意领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch100"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775136613.2878454
+  },
+  "state_区域环境_100": {
+    "key": "state_区域环境_100",
+    "category": "semantic",
+    "content": "区域环境: 从宁静数据空间变为布满血色警示与机械杀机的战场",
+    "tags": [
+      "state",
+      "区域环境",
+      "ch100"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775136613.2882013
+  },
+  "state_中转站守卫_110": {
+    "key": "state_中转站守卫_110",
+    "category": "semantic",
+    "content": "中转站守卫: 被确认为无灵魂、仅靠信仰之力驱动的战争机器。",
+    "tags": [
+      "state",
+      "中转站守卫",
+      "ch110"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775137009.2161129
+  },
+  "state_封神榜系统_110": {
+    "key": "state_封神榜系统_110",
+    "category": "semantic",
+    "content": "封神榜系统: 核心权限转为提供破坏利刃，主动清除入侵者。",
+    "tags": [
+      "state",
+      "封神榜系统",
+      "ch110"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775137009.2169292
+  },
+  "state_秦无双_110": {
+    "key": "state_秦无双_110",
+    "category": "semantic",
+    "content": "秦无双: 从潜伏状态转为直接介入，掌握局势关键信息。",
+    "tags": [
+      "state",
+      "秦无双",
+      "ch110"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775137009.2177372
+  },
+  "state_林渊_110": {
+    "key": "state_林渊_110",
+    "category": "semantic",
+    "content": "林渊: 从单纯破坏转为面临神权意志的复杂博弈陷阱。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch110"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775137009.2184792
+  },
+  "state_秦锋（白洛）_120": {
+    "key": "state_秦锋（白洛）_120",
+    "category": "semantic",
+    "content": "秦锋（白洛）: 从昔日兄弟彻底转变为万神殿执行神谕的高阶将领。",
+    "tags": [
+      "state",
+      "秦锋（白洛）",
+      "ch120"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775137353.9066596
+  },
+  "state_神秘少年_120": {
+    "key": "state_神秘少年_120",
+    "category": "semantic",
+    "content": "神秘少年: 从被救下的盟友转变为觉醒封神榜力量的关键祭品。",
+    "tags": [
+      "state",
+      "神秘少年",
+      "ch120"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775137353.9070616
+  },
+  "state_林渊_120": {
+    "key": "state_林渊_120",
+    "category": "semantic",
+    "content": "林渊: 从战斗状态陷入极度恐惧，意识到自己落入精心布局。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch120"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775137353.9074488
+  },
+  "state_封神榜系统_120": {
+    "key": "state_封神榜系统_120",
+    "category": "semantic",
+    "content": "封神榜系统: 检测到高权限神格介入，逆封模式启动试图剥离神性。",
+    "tags": [
+      "state",
+      "封神榜系统",
+      "ch120"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775137353.9078343
+  },
+  "state_战场局势_130": {
+    "key": "state_战场局势_130",
+    "category": "semantic",
+    "content": "战场局势: 从潜伏备战突变为遭遇神罚降临的危机时刻",
+    "tags": [
+      "state",
+      "战场局势",
+      "ch130"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775137763.6809118
+  },
+  "state_苏清婉_130": {
+    "key": "state_苏清婉_130",
+    "category": "semantic",
+    "content": "苏清婉: 从战斗状态转为遭受精神侵蚀濒临昏迷边缘",
+    "tags": [
+      "state",
+      "苏清婉",
+      "ch130"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775137763.6813376
+  },
+  "state_林渊_130": {
+    "key": "state_林渊_130",
+    "category": "semantic",
+    "content": "林渊: 从逃亡者转变为直面神权执法者的革命领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch130"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775137763.6817636
+  },
+  "state_封神榜碎片_130": {
+    "key": "state_封神榜碎片_130",
+    "category": "semantic",
+    "content": "封神榜碎片: 从被动防御遗物转变为主动爆发金光的神器",
+    "tags": [
+      "state",
+      "封神榜碎片",
+      "ch130"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775137763.6821842
+  },
+  "state_千夫指_130": {
+    "key": "state_千夫指_130",
+    "category": "semantic",
+    "content": "千夫指: 从嚣张指挥者转为被罗刹将军震慑跪地撤离",
+    "tags": [
+      "state",
+      "千夫指",
+      "ch130"
+    ],
+    "importance": 6,
+    "chapter": null,
+    "created_at": 1775137763.6826177
+  },
+  "state_白洛_140": {
+    "key": "state_白洛_140",
+    "category": "semantic",
+    "content": "白洛: 身份暴露为万神殿叛逃将领，从伪装者转为被通缉状态",
+    "tags": [
+      "state",
+      "白洛",
+      "ch140"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775138238.4232635
+  },
+  "state_林渊_140": {
+    "key": "state_林渊_140",
+    "category": "semantic",
+    "content": "林渊: 正式加入反抗组织无信者，获得自由行动权但受约束",
+    "tags": [
+      "state",
+      "林渊",
+      "ch140"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775138238.4237442
+  },
+  "state_封神榜_140": {
+    "key": "state_封神榜_140",
+    "category": "semantic",
+    "content": "封神榜: 因外界威胁感应发烫，预示封印松动与强敌降临",
+    "tags": [
+      "state",
+      "封神榜",
+      "ch140"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775138238.424158
+  },
+  "state_老者_140": {
+    "key": "state_老者_140",
+    "category": "semantic",
+    "content": "老者: 确认林渊拥有前世记忆线索，态度由审视转为接纳",
+    "tags": [
+      "state",
+      "老者",
+      "ch140"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775138238.4245903
+  },
+  "state_秦无双_150": {
+    "key": "state_秦无双_150",
+    "category": "semantic",
+    "content": "秦无双: 从战力担当变为重伤昏迷，生死未卜。",
+    "tags": [
+      "state",
+      "秦无双",
+      "ch150"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775138708.78302
+  },
+  "state_林渊_150": {
+    "key": "state_林渊_150",
+    "category": "semantic",
+    "content": "林渊: 从试图改写规则变为遭受严重反噬，修为尽失。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch150"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775138708.7834861
+  },
+  "state_白洛_150": {
+    "key": "state_白洛_150",
+    "category": "semantic",
+    "content": "白洛: 权限被锁死，确认无法切断主神硬链接。",
+    "tags": [
+      "state",
+      "白洛",
+      "ch150"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775138708.7839239
+  },
+  "state_战场局势_150": {
+    "key": "state_战场局势_150",
+    "category": "semantic",
+    "content": "战场局势: 从抵抗尝试彻底转为绝望，常规手段完全失效。",
+    "tags": [
+      "state",
+      "战场局势",
+      "ch150"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775138708.7843614
+  },
+  "state_林渊_160": {
+    "key": "state_林渊_160",
+    "category": "semantic",
+    "content": "林渊: 彻底拒绝招安，从寻求盟友转变为决意单挑神权核心。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch160"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775139081.2628956
+  },
+  "state_秦无双_160": {
+    "key": "state_秦无双_160",
+    "category": "semantic",
+    "content": "秦无双: 因战死之地凶险导致灵魂受创，脸色苍白且重伤未愈。",
+    "tags": [
+      "state",
+      "秦无双",
+      "ch160"
+    ],
+    "importance": 6,
+    "chapter": null,
+    "created_at": 1775139081.2633963
+  },
+  "state_景微_160": {
+    "key": "state_景微_160",
+    "category": "semantic",
+    "content": "景微: 首次流露剧烈情绪波动，对林渊的反抗感到意外与愤怒。",
+    "tags": [
+      "state",
+      "景微",
+      "ch160"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775139081.2638683
+  },
+  "state_封神榜系统_160": {
+    "key": "state_封神榜系统_160",
+    "category": "semantic",
+    "content": "封神榜系统: 被林渊视为必须摧毁的收割机，其秩序根基遭直接挑战。",
+    "tags": [
+      "state",
+      "封神榜系统",
+      "ch160"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775139081.2643368
+  },
+  "state_林渊_170": {
+    "key": "state_林渊_170",
+    "category": "semantic",
+    "content": "林渊: 从逃亡者转变为掌握封神榜底层逻辑线索的革命领袖。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch170"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775139452.2668066
+  },
+  "state_黑色令牌_170": {
+    "key": "state_黑色令牌_170",
+    "category": "semantic",
+    "content": "黑色令牌: 从沉睡的禁忌遗物转变为唤醒并投射神秘意识的信标。",
+    "tags": [
+      "state",
+      "黑色令牌",
+      "ch170"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775139452.267319
+  },
+  "state_无信者组织_170": {
+    "key": "state_无信者组织_170",
+    "category": "semantic",
+    "content": "无信者组织: 获得关于神权更迭的关键钥匙及上古逆封者真相。",
+    "tags": [
+      "state",
+      "无信者组织",
+      "ch170"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775139452.26781
+  },
+  "state_萧夜_180": {
+    "key": "state_萧夜_180",
+    "category": "semantic",
+    "content": "萧夜: 从伪装潜伏者转变为提供关键情报的求饶者",
+    "tags": [
+      "state",
+      "萧夜",
+      "ch180"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775139833.7271335
+  },
+  "state_林渊_180": {
+    "key": "state_林渊_180",
+    "category": "semantic",
+    "content": "林渊: 从怀疑审视转变为给予萧夜最后行动机会",
+    "tags": [
+      "state",
+      "林渊",
+      "ch180"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775139833.7276824
+  },
+  "state_苏清婉_180": {
+    "key": "state_苏清婉_180",
+    "category": "semantic",
+    "content": "苏清婉: 从敌意逼问转变为因真相而稍减警惕",
+    "tags": [
+      "state",
+      "苏清婉",
+      "ch180"
+    ],
+    "importance": 6,
+    "chapter": null,
+    "created_at": 1775139833.7281728
+  },
+  "state_战场局势_180": {
+    "key": "state_战场局势_180",
+    "category": "semantic",
+    "content": "战场局势: 从内部对峙突变为面临外部追兵围剿",
+    "tags": [
+      "state",
+      "战场局势",
+      "ch180"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775139833.7286866
+  },
+  "state_林渊_190": {
+    "key": "state_林渊_190",
+    "category": "semantic",
+    "content": "林渊: 从逃亡者转变为掌握核心决策权与逆封能力的革命领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch190"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775140206.9741383
+  },
+  "state_反抗策略_190": {
+    "key": "state_反抗策略_190",
+    "category": "semantic",
+    "content": "反抗策略: 从武力硬碰硬转变为利用舆论战与信仰渗透的攻心战略",
+    "tags": [
+      "state",
+      "反抗策略",
+      "ch190"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775140206.9747164
+  },
+  "state_无信者组织_190": {
+    "key": "state_无信者组织_190",
+    "category": "semantic",
+    "content": "无信者组织: 从压抑绝望转变为拥有明确变革共识与希望火苗的战斗集体",
+    "tags": [
+      "state",
+      "无信者组织",
+      "ch190"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775140206.9752247
+  },
+  "state_林渊_200": {
+    "key": "state_林渊_200",
+    "category": "semantic",
+    "content": "林渊: 从犹豫的逃亡者转变为决意单挑神权核心、主动赴险的革命领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch200"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775140567.3438485
+  },
+  "state_景微_200": {
+    "key": "state_景微_200",
+    "category": "semantic",
+    "content": "景微: 从发动天罚的执法者转变为因权限松动而寻求谈判的对手",
+    "tags": [
+      "state",
+      "景微",
+      "ch200"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775140567.3444257
+  },
+  "state_无信者小队_200": {
+    "key": "state_无信者小队_200",
+    "category": "semantic",
+    "content": "无信者小队: 从集体备战状态转变为执行林渊命令、准备分散撤离的留守队",
+    "tags": [
+      "state",
+      "无信者小队",
+      "ch200"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775140567.3449621
+  },
+  "state_战场局势_200": {
+    "key": "state_战场局势_200",
+    "category": "semantic",
+    "content": "战场局势: 从激烈对抗突变为双方达成暂时停战、即将进行高风险谈判",
+    "tags": [
+      "state",
+      "战场局势",
+      "ch200"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775140567.3454897
+  },
+  "state_林渊_210": {
+    "key": "state_林渊_210",
+    "category": "semantic",
+    "content": "林渊: 从犹豫逃亡者转变为掌握逆封能力但身受严重反噬的决意领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch210"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775140956.7825892
+  },
+  "state_战场局势_210": {
+    "key": "state_战场局势_210",
+    "category": "semantic",
+    "content": "战场局势: 从战后休整突变为面临主神感知锁定与即刻追剿的危机时刻",
+    "tags": [
+      "state",
+      "战场局势",
+      "ch210"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775140956.7831876
+  },
+  "state_无信者营地_210": {
+    "key": "state_无信者营地_210",
+    "category": "semantic",
+    "content": "无信者营地: 从临时救治点转变为即将全员紧急撤离的危险区域",
+    "tags": [
+      "state",
+      "无信者营地",
+      "ch210"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775140956.7837455
+  },
+  "state_林渊令牌_210": {
+    "key": "state_林渊令牌_210",
+    "category": "semantic",
+    "content": "林渊令牌: 从沉寂状态被激活，传递出关于神秘石碑的关键线索",
+    "tags": [
+      "state",
+      "林渊令牌",
+      "ch210"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775140956.784287
+  },
+  "state_林渊_220": {
+    "key": "state_林渊_220",
+    "category": "semantic",
+    "content": "林渊: 强行逆封石门导致修为受损、嘴角溢血，但成功破除封印。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch220"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775141381.9233565
+  },
+  "state_遗忘深渊入口_220": {
+    "key": "state_遗忘深渊入口_220",
+    "category": "semantic",
+    "content": "遗忘深渊入口: 从被锁魂阵变体严密封锁的状态转变为半开状态。",
+    "tags": [
+      "state",
+      "遗忘深渊入口",
+      "ch220"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775141381.923984
+  },
+  "state_萧夜_220": {
+    "key": "state_萧夜_220",
+    "category": "semantic",
+    "content": "萧夜: 目睹破阵过程后未出手相助，默默退至队伍最后方。",
+    "tags": [
+      "state",
+      "萧夜",
+      "ch220"
+    ],
+    "importance": 6,
+    "chapter": null,
+    "created_at": 1775141381.9245572
+  },
+  "state_萧夜_230": {
+    "key": "state_萧夜_230",
+    "category": "semantic",
+    "content": "萧夜: 从重伤逃亡者转变为直面世界真相与命运倒计时的决意者。",
+    "tags": [
+      "state",
+      "萧夜",
+      "ch230"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775141803.892491
+  },
+  "state_密钥_230": {
+    "key": "state_密钥_230",
+    "category": "semantic",
+    "content": "密钥: 从疑似开门工具被证实为展示最终结局的镜子与陷阱。",
+    "tags": [
+      "state",
+      "密钥",
+      "ch230"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775141803.8931246
+  },
+  "state_世界观_230": {
+    "key": "state_世界观_230",
+    "category": "semantic",
+    "content": "世界观: 确认世界存在精确计算到“章”数的逻辑闭环与系统监控。",
+    "tags": [
+      "state",
+      "世界观",
+      "ch230"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775141803.8937128
+  },
+  "state_无信者据点_230": {
+    "key": "state_无信者据点_230",
+    "category": "semantic",
+    "content": "无信者据点: 从临时藏身处转变为揭露世界核心秘密的关键信息节点。",
+    "tags": [
+      "state",
+      "无信者据点",
+      "ch230"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775141803.8942955
+  },
+  "state_林渊_240": {
+    "key": "state_林渊_240",
+    "category": "semantic",
+    "content": "林渊: 从犹豫觉醒者转变为决意自毁式毁灭神权的革命领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch240"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775142216.3525867
+  },
+  "state_封神榜_240": {
+    "key": "state_封神榜_240",
+    "category": "semantic",
+    "content": "封神榜: 从维护秩序的律法被揭露为精密的养蛊场与招聘陷阱",
+    "tags": [
+      "state",
+      "封神榜",
+      "ch240"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775142216.3532355
+  },
+  "state_苏清婉_240": {
+    "key": "state_苏清婉_240",
+    "category": "semantic",
+    "content": "苏清婉: 从试图唤醒同伴转变为目睹林渊直面神权核心的旁观者",
+    "tags": [
+      "state",
+      "苏清婉",
+      "ch240"
+    ],
+    "importance": 6,
+    "chapter": null,
+    "created_at": 1775142216.3538327
+  },
+  "state_战场局势_250": {
+    "key": "state_战场局势_250",
+    "category": "semantic",
+    "content": "战场局势: 从潜伏备战突变为正门激战与地下自毁危机并发",
+    "tags": [
+      "state",
+      "战场局势",
+      "ch250"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775142559.0868027
+  },
+  "state_林渊_250": {
+    "key": "state_林渊_250",
+    "category": "semantic",
+    "content": "林渊: 从逃亡者转变为在绝境中主导破局并直面未知危机的领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch250"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775142559.0875049
+  },
+  "state_废弃矿坑_250": {
+    "key": "state_废弃矿坑_250",
+    "category": "semantic",
+    "content": "废弃矿坑: 从隐蔽通道转变为触发封印松动与能量乱流的死亡迷宫",
+    "tags": [
+      "state",
+      "废弃矿坑",
+      "ch250"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775142559.0881321
+  },
+  "state_萧夜_250": {
+    "key": "state_萧夜_250",
+    "category": "semantic",
+    "content": "萧夜: 从失踪状态转变为诡异现身且身份存疑的关键变数",
+    "tags": [
+      "state",
+      "萧夜",
+      "ch250"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775142559.0888815
+  },
+  "state_林渊_260": {
+    "key": "state_林渊_260",
+    "category": "semantic",
+    "content": "林渊: 从常规灵力对抗转变为主动切断经脉，以逆封禁忌力量破局。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch260"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775142922.6513753
+  },
+  "state_黑令牌_260": {
+    "key": "state_黑令牌_260",
+    "category": "semantic",
+    "content": "黑令牌: 从引子变为激活深渊深处沉睡意志的关键锁钥。",
+    "tags": [
+      "state",
+      "黑令牌",
+      "ch260"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775142922.6521053
+  },
+  "state_维度夹缝_260": {
+    "key": "state_维度夹缝_260",
+    "category": "semantic",
+    "content": "维度夹缝: 从死寂囚笼转变为因碎片出现而开始颤动的真相之地。",
+    "tags": [
+      "state",
+      "维度夹缝",
+      "ch260"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775142922.6527627
+  },
+  "state_联盟基地_270": {
+    "key": "state_联盟基地_270",
+    "category": "semantic",
+    "content": "联盟基地: 从潜伏备战突变为面临外部围剿与内部渗透的危机时刻",
+    "tags": [
+      "state",
+      "联盟基地",
+      "ch270"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775143291.174948
+  },
+  "state_林渊_270": {
+    "key": "state_林渊_270",
+    "category": "semantic",
+    "content": "林渊: 从犹豫逃亡者彻底转变为决意单挑神权、主动赴险的革命领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch270"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775143291.1757023
+  },
+  "state_反抗军策略_270": {
+    "key": "state_反抗军策略_270",
+    "category": "semantic",
+    "content": "反抗军策略: 放弃等待补给转为掠夺式进攻，并启用活人作为能源燃料",
+    "tags": [
+      "state",
+      "反抗军策略",
+      "ch270"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775143291.1763515
+  },
+  "state_林渊_280": {
+    "key": "state_林渊_280",
+    "category": "semantic",
+    "content": "林渊: 从犹豫逃亡者彻底转变为决意单挑神权、主动赴险的革命领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch280"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775143685.7376356
+  },
+  "state_团队_280": {
+    "key": "state_团队_280",
+    "category": "semantic",
+    "content": "团队: 从被囚禁于下界转变为突破封锁进入未知黑暗领域的反抗军",
+    "tags": [
+      "state",
+      "团队",
+      "ch280"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775143685.7383797
+  },
+  "state_下界_280": {
+    "key": "state_下界_280",
+    "category": "semantic",
+    "content": "下界: 从生存牢笼转变为即将熄灭的火种，与主角彻底切断情感联系",
+    "tags": [
+      "state",
+      "下界",
+      "ch280"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775143685.7390738
+  },
+  "state_源初境_280": {
+    "key": "state_源初境_280",
+    "category": "semantic",
+    "content": "源初境: 从传说中的光明圣地被揭露为吞噬认知的虚妄之海猎场",
+    "tags": [
+      "state",
+      "源初境",
+      "ch280"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775143685.7397566
+  },
+  "state_苏清婉_290": {
+    "key": "state_苏清婉_290",
+    "category": "semantic",
+    "content": "苏清婉: 被判定为承载逆封权柄的关键变量，生命力正被系统强行抽取。",
+    "tags": [
+      "state",
+      "苏清婉",
+      "ch290"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775144093.5171134
+  },
+  "state_林渊_290": {
+    "key": "state_林渊_290",
+    "category": "semantic",
+    "content": "林渊: 从犹豫转变为准备执行献祭交易，面临救世主或刽子手的抉择。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch290"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775144093.5178883
+  },
+  "state_萧夜_290": {
+    "key": "state_萧夜_290",
+    "category": "semantic",
+    "content": "萧夜: 立场突变，从旁观者转为保护者，拔刀拦截林渊以护苏清婉。",
+    "tags": [
+      "state",
+      "萧夜",
+      "ch290"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775144093.5185893
+  },
+  "state_林渊_300": {
+    "key": "state_林渊_300",
+    "category": "semantic",
+    "content": "林渊: 从犹豫觉醒者彻底转变为决意自毁式毁灭神权的革命领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch300"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775144474.6733387
+  },
+  "state_萧夜_300": {
+    "key": "state_萧夜_300",
+    "category": "semantic",
+    "content": "萧夜: 因得知妹妹萧璃是被选中实验体而精神崩溃陷入绝望",
+    "tags": [
+      "state",
+      "萧夜",
+      "ch300"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775144474.674141
+  },
+  "state_反抗计划_300": {
+    "key": "state_反抗计划_300",
+    "category": "semantic",
+    "content": "反抗计划: 策略由被动逃亡转为主动利用遗忘深渊广播真相",
+    "tags": [
+      "state",
+      "反抗计划",
+      "ch300"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775144474.6749434
+  },
+  "state_林渊_310": {
+    "key": "state_林渊_310",
+    "category": "semantic",
+    "content": "林渊: 从犹豫逃亡者转变为决意自毁式毁灭神权的革命领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch310"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775144864.8531675
+  },
+  "state_苏清婉_310": {
+    "key": "state_苏清婉_310",
+    "category": "semantic",
+    "content": "苏清婉: 从旁观者转变为主动撕裂空间、承担重伤代价的破局者",
+    "tags": [
+      "state",
+      "苏清婉",
+      "ch310"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775144864.854003
+  },
+  "state_传输任务_310": {
+    "key": "state_传输任务_310",
+    "category": "semantic",
+    "content": "传输任务: 从受阻状态突破至99%临界点，遭遇系统最终逻辑陷阱",
+    "tags": [
+      "state",
+      "传输任务",
+      "ch310"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775144864.85475
+  },
+  "state_系统/封神榜_320": {
+    "key": "state_系统/封神榜_320",
+    "category": "semantic",
+    "content": "系统/封神榜: 从完美秩序状态彻底崩坏，逻辑冲突导致物理法则撕裂",
+    "tags": [
+      "state",
+      "系统/封神榜",
+      "ch320"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775145203.3651001
+  },
+  "state_林渊_330": {
+    "key": "state_林渊_330",
+    "category": "semantic",
+    "content": "林渊: 从修为尽失的逃亡者转变为拥有无限寿命与规则权柄的原初逆封者。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch330"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775145543.549763
+  },
+  "state_系统/封神榜_330": {
+    "key": "state_系统/封神榜_330",
+    "category": "semantic",
+    "content": "系统/封神榜: 从拒绝承认变为确认林渊唯一性灵魂特征，逻辑闭环被打破。",
+    "tags": [
+      "state",
+      "系统/封神榜",
+      "ch330"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775145543.5505843
+  },
+  "state_林渊_340": {
+    "key": "state_林渊_340",
+    "category": "semantic",
+    "content": "林渊: 从实体存在转变为光点溶解，肉身消亡但意识暂时游离。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch340"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775145873.790106
+  },
+  "state_源初境/神权体系_340": {
+    "key": "state_源初境/神权体系_340",
+    "category": "semantic",
+    "content": "源初境/神权体系: 物理法则强行愈合，维系秩序的“神座”支柱被移除。",
+    "tags": [
+      "state",
+      "源初境/神权体系",
+      "ch340"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775145873.7909439
+  },
+  "state_琥珀果实_350": {
+    "key": "state_琥珀果实_350",
+    "category": "semantic",
+    "content": "琥珀果实: 从神树核心产出变为可被夺取的因果结晶",
+    "tags": [
+      "state",
+      "琥珀果实",
+      "ch350"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775146242.1342692
+  },
+  "state_林渊_350": {
+    "key": "state_林渊_350",
+    "category": "semantic",
+    "content": "林渊: 从犹豫领袖转变为掌握致命武器并直面复活的革命者",
+    "tags": [
+      "state",
+      "林渊",
+      "ch350"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775146242.1351144
+  },
+  "state_景微_350": {
+    "key": "state_景微_350",
+    "category": "semantic",
+    "content": "景微: 从闭眼沉睡状态复活并重新加入战场对抗",
+    "tags": [
+      "state",
+      "景微",
+      "ch350"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775146242.1359644
+  },
+  "state_万域联盟_350": {
+    "key": "state_万域联盟_350",
+    "category": "semantic",
+    "content": "万域联盟: 从分散状态集结完毕，形成对抗神权的最后堡垒",
+    "tags": [
+      "state",
+      "万域联盟",
+      "ch350"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775146242.1367369
+  },
+  "state_万神殿防线_360": {
+    "key": "state_万神殿防线_360",
+    "category": "semantic",
+    "content": "万神殿防线: 从常规防御转为切断灵脉后的极限临界状态",
+    "tags": [
+      "state",
+      "万神殿防线",
+      "ch360"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775146566.899264
+  },
+  "state_林渊_360": {
+    "key": "state_林渊_360",
+    "category": "semantic",
+    "content": "林渊: 从犹豫逃亡者彻底转变为决意自毁式毁灭神权的革命领袖",
+    "tags": [
+      "state",
+      "林渊",
+      "ch360"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775146566.9001403
+  },
+  "state_战场局势_360": {
+    "key": "state_战场局势_360",
+    "category": "semantic",
+    "content": "战场局势: 从备战喧嚣突变为全员屏息、大战一触即发的绝对寂静",
+    "tags": [
+      "state",
+      "战场局势",
+      "ch360"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775146566.9009244
+  },
+  "state_林渊_370": {
+    "key": "state_林渊_370",
+    "category": "semantic",
+    "content": "林渊: 从被动接受命运转变为主动点燃逆火对抗神权核心",
+    "tags": [
+      "state",
+      "林渊",
+      "ch370"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775146963.0130706
+  },
+  "state_封神榜系统_370": {
+    "key": "state_封神榜系统_370",
+    "category": "semantic",
+    "content": "封神榜系统: 暴露利用反抗者进行压力测试的收割机制逻辑漏洞",
+    "tags": [
+      "state",
+      "封神榜系统",
+      "ch370"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775146963.0122695
+  },
+  "state_秦无双_380": {
+    "key": "state_秦无双_380",
+    "category": "semantic",
+    "content": "秦无双: 从陪伴状态转为独自深入遗忘深渊探查真相。",
+    "tags": [
+      "state",
+      "秦无双",
+      "ch380"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775147357.4690816
+  },
+  "state_沈五_380": {
+    "key": "state_沈五_380",
+    "category": "semantic",
+    "content": "沈五: 从暗卫身份转变为拥有优先知情权的独立情报商会主事。",
+    "tags": [
+      "state",
+      "沈五",
+      "ch380"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775147357.4700737
+  },
+  "state_萧夜_380": {
+    "key": "state_萧夜_380",
+    "category": "semantic",
+    "content": "萧夜: 从牺牲者变为引发新危机的线索源头（墓碑出现神秘脚印）。",
+    "tags": [
+      "state",
+      "萧夜",
+      "ch380"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775147357.470884
+  },
+  "state_世界局势_380": {
+    "key": "state_世界局势_380",
+    "category": "semantic",
+    "content": "世界局势: 表面和平下，封印核心震动，旧神权复苏迹象显现。",
+    "tags": [
+      "state",
+      "世界局势",
+      "ch380"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775147357.4716938
+  },
+  "state_林渊_390": {
+    "key": "state_林渊_390",
+    "category": "semantic",
+    "content": "林渊: 从实体消亡转变为传说符号，其精神通过雕像具象化并产生实际干涉力",
+    "tags": [
+      "state",
+      "林渊",
+      "ch390"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775147755.7903817
+  },
+  "state_黑铁城民众_390": {
+    "key": "state_黑铁城民众_390",
+    "category": "semantic",
+    "content": "黑铁城民众: 从敬畏神明转变为质疑神权，开始追求自由意志并自发建立新信仰",
+    "tags": [
+      "state",
+      "黑铁城民众",
+      "ch390"
+    ],
+    "importance": 8,
+    "chapter": null,
+    "created_at": 1775147755.7913141
+  },
+  "state_旧神权_390": {
+    "key": "state_旧神权_390",
+    "category": "semantic",
+    "content": "旧神权: 复苏迹象显现但遭遇雕像壁垒阻挡，权威首次受到实质性物理挑战",
+    "tags": [
+      "state",
+      "旧神权",
+      "ch390"
+    ],
+    "importance": 7,
+    "chapter": null,
+    "created_at": 1775147755.7922752
+  },
+  "state_万域世界_400": {
+    "key": "state_万域世界_400",
+    "category": "semantic",
+    "content": "万域世界: 从神权压迫、献祭循环转变为自然法则主导的自由纪元。",
+    "tags": [
+      "state",
+      "万域世界",
+      "ch400"
+    ],
+    "importance": 10,
+    "chapter": null,
+    "created_at": 1775148123.5448453
+  },
+  "state_林渊_400": {
+    "key": "state_林渊_400",
+    "category": "semantic",
+    "content": "林渊: 从实体革命领袖彻底转化为光点溶解，意识游离但精神永存。",
+    "tags": [
+      "state",
+      "林渊",
+      "ch400"
+    ],
+    "importance": 9,
+    "chapter": null,
+    "created_at": 1775148123.5458615
+  }
+}

@@ -1,0 +1,2090 @@
+{
+  "ch10_event_0": {
+    "key": "ch10_event_0",
+    "category": "episodic",
+    "content": "林渊潜入长老府，偷听到赵长老与黑衣人密谋献祭计划。",
+    "tags": [
+      "event",
+      "ch10"
+    ],
+    "importance": 6,
+    "chapter": 10,
+    "created_at": 1775133030.5329618
+  },
+  "ch10_event_1": {
+    "key": "ch10_event_1",
+    "category": "episodic",
+    "content": "林渊遭遇伏击，发现昔日邻居王铁柱竟是杀手首领。",
+    "tags": [
+      "event",
+      "ch10"
+    ],
+    "importance": 6,
+    "chapter": 10,
+    "created_at": 1775133030.533179
+  },
+  "ch10_event_2": {
+    "key": "ch10_event_2",
+    "category": "episodic",
+    "content": "王铁柱为救林渊自尽，并留下刻有真相符文的碎片。",
+    "tags": [
+      "event",
+      "ch10"
+    ],
+    "importance": 6,
+    "chapter": 10,
+    "created_at": 1775133030.5333555
+  },
+  "ch10_event_3": {
+    "key": "ch10_event_3",
+    "category": "episodic",
+    "content": "林渊获得关键线索，决心打破神位囚笼的阴谋。",
+    "tags": [
+      "event",
+      "ch10"
+    ],
+    "importance": 6,
+    "chapter": 10,
+    "created_at": 1775133030.533865
+  },
+  "ch20_event_0": {
+    "key": "ch20_event_0",
+    "category": "episodic",
+    "content": "苏清婉现身劫持秦无双，逼迫林渊交出逆封秘密。",
+    "tags": [
+      "event",
+      "ch20"
+    ],
+    "importance": 6,
+    "chapter": 20,
+    "created_at": 1775133371.5208964
+  },
+  "ch20_event_1": {
+    "key": "ch20_event_1",
+    "category": "episodic",
+    "content": "秦无双揭露王铁柱之死与苏清婉有关，引发对峙。",
+    "tags": [
+      "event",
+      "ch20"
+    ],
+    "importance": 6,
+    "chapter": 20,
+    "created_at": 1775133371.5214944
+  },
+  "ch20_event_2": {
+    "key": "ch20_event_2",
+    "category": "episodic",
+    "content": "秦无双试图反抗被苏清婉化解，双方陷入绝境。",
+    "tags": [
+      "event",
+      "ch20"
+    ],
+    "importance": 6,
+    "chapter": 20,
+    "created_at": 1775133371.521934
+  },
+  "ch20_event_3": {
+    "key": "ch20_event_3",
+    "category": "episodic",
+    "content": "林渊提出以名单真实性为条件，试探苏清婉底牌。",
+    "tags": [
+      "event",
+      "ch20"
+    ],
+    "importance": 6,
+    "chapter": 20,
+    "created_at": 1775133371.5223486
+  },
+  "ch30_event_0": {
+    "key": "ch30_event_0",
+    "category": "episodic",
+    "content": "林渊分析玉简名单，选定三级神官作为万神殿反击的切入点。",
+    "tags": [
+      "event",
+      "ch30"
+    ],
+    "importance": 6,
+    "chapter": 30,
+    "created_at": 1775133762.631503
+  },
+  "ch30_event_1": {
+    "key": "ch30_event_1",
+    "category": "episodic",
+    "content": "林渊潜入地下黑市，购买噬魂匕首与千面人伪装面具。",
+    "tags": [
+      "event",
+      "ch30"
+    ],
+    "importance": 6,
+    "chapter": 30,
+    "created_at": 1775133762.6318686
+  },
+  "ch30_event_2": {
+    "key": "ch30_event_2",
+    "category": "episodic",
+    "content": "林渊确认目标为负责信仰税征收的三级神官，准备宣战。",
+    "tags": [
+      "event",
+      "ch30"
+    ],
+    "importance": 6,
+    "chapter": 30,
+    "created_at": 1775133762.6320996
+  },
+  "ch40_event_0": {
+    "key": "ch40_event_0",
+    "category": "episodic",
+    "content": "林渊逆转封神榜规则，将收割信仰的契约改为供奉自己的祭文。",
+    "tags": [
+      "event",
+      "ch40"
+    ],
+    "importance": 6,
+    "chapter": 40,
+    "created_at": 1775134193.7359147
+  },
+  "ch40_event_1": {
+    "key": "ch40_event_1",
+    "category": "episodic",
+    "content": "万神殿众神权柄被切断，被迫单膝跪地臣服于林渊的新秩序。",
+    "tags": [
+      "event",
+      "ch40"
+    ],
+    "importance": 6,
+    "chapter": 40,
+    "created_at": 1775134193.7362757
+  },
+  "ch40_event_2": {
+    "key": "ch40_event_2",
+    "category": "episodic",
+    "content": "林渊宣告旧时代终结，以逆封之力重塑神位定义与世间秩序。",
+    "tags": [
+      "event",
+      "ch40"
+    ],
+    "importance": 6,
+    "chapter": 40,
+    "created_at": 1775134193.7365282
+  },
+  "ch40_event_3": {
+    "key": "ch40_event_3",
+    "category": "episodic",
+    "content": "神秘人影景微现身，告知林渊所谓的胜利仅是游戏开始。",
+    "tags": [
+      "event",
+      "ch40"
+    ],
+    "importance": 6,
+    "chapter": 40,
+    "created_at": 1775134193.7367747
+  },
+  "ch50_event_0": {
+    "key": "ch50_event_0",
+    "category": "episodic",
+    "content": "林渊下达代号“破晓”行动，启动营救萧夜计划。",
+    "tags": [
+      "event",
+      "ch50"
+    ],
+    "importance": 6,
+    "chapter": 50,
+    "created_at": 1775134640.0339196
+  },
+  "ch50_event_1": {
+    "key": "ch50_event_1",
+    "category": "episodic",
+    "content": "白洛领命潜入万神殿核心，老赵佯攻东侧祭坛。",
+    "tags": [
+      "event",
+      "ch50"
+    ],
+    "importance": 6,
+    "chapter": 50,
+    "created_at": 1775134640.0343127
+  },
+  "ch50_event_2": {
+    "key": "ch50_event_2",
+    "category": "episodic",
+    "content": "林伯安将十年烈酒托付林渊，独自留守后方。",
+    "tags": [
+      "event",
+      "ch50"
+    ],
+    "importance": 6,
+    "chapter": 50,
+    "created_at": 1775134640.0345902
+  },
+  "ch50_event_3": {
+    "key": "ch50_event_3",
+    "category": "episodic",
+    "content": "集结号角吹响，数万战士准备对万神殿总攻。",
+    "tags": [
+      "event",
+      "ch50"
+    ],
+    "importance": 6,
+    "chapter": 50,
+    "created_at": 1775134640.0348501
+  },
+  "ch50_event_4": {
+    "key": "ch50_event_4",
+    "category": "episodic",
+    "content": "天空突现诡异血云，恐怖气息笼罩战场引发异变。",
+    "tags": [
+      "event",
+      "ch50"
+    ],
+    "importance": 6,
+    "chapter": 50,
+    "created_at": 1775134640.035108
+  },
+  "ch60_event_0": {
+    "key": "ch60_event_0",
+    "category": "episodic",
+    "content": "林渊团队进入遗忘深渊外围的怨念林地。",
+    "tags": [
+      "event",
+      "ch60"
+    ],
+    "importance": 6,
+    "chapter": 60,
+    "created_at": 1775135072.8566647
+  },
+  "ch60_event_1": {
+    "key": "ch60_event_1",
+    "category": "episodic",
+    "content": "秦无双陷入成神幻境，险些被精神污染吞噬。",
+    "tags": [
+      "event",
+      "ch60"
+    ],
+    "importance": 6,
+    "chapter": 60,
+    "created_at": 1775135072.857432
+  },
+  "ch60_event_2": {
+    "key": "ch60_event_2",
+    "category": "episodic",
+    "content": "林渊以逆封令牌击碎幻境，救下秦无双。",
+    "tags": [
+      "event",
+      "ch60"
+    ],
+    "importance": 6,
+    "chapter": 60,
+    "created_at": 1775135072.8580415
+  },
+  "ch60_event_3": {
+    "key": "ch60_event_3",
+    "category": "episodic",
+    "content": "队伍发现中央铁笼内囚禁着酷似林渊的少年。",
+    "tags": [
+      "event",
+      "ch60"
+    ],
+    "importance": 6,
+    "chapter": 60,
+    "created_at": 1775135072.8586557
+  },
+  "ch60_event_4": {
+    "key": "ch60_event_4",
+    "category": "episodic",
+    "content": "少年通过口型传达“杀我”指令并唤醒古老存在。",
+    "tags": [
+      "event",
+      "ch60"
+    ],
+    "importance": 6,
+    "chapter": 60,
+    "created_at": 1775135072.8592489
+  },
+  "ch70_event_0": {
+    "key": "ch70_event_0",
+    "category": "episodic",
+    "content": "神秘人揭露封神榜实为收割信仰的漏洞容器系统",
+    "tags": [
+      "event",
+      "ch70"
+    ],
+    "importance": 6,
+    "chapter": 70,
+    "created_at": 1775135490.2817025
+  },
+  "ch70_event_1": {
+    "key": "ch70_event_1",
+    "category": "episodic",
+    "content": "林渊确认空白名字是吞噬反抗者的终极陷阱",
+    "tags": [
+      "event",
+      "ch70"
+    ],
+    "importance": 6,
+    "chapter": 70,
+    "created_at": 1775135490.2821455
+  },
+  "ch70_event_2": {
+    "key": "ch70_event_2",
+    "category": "episodic",
+    "content": "林渊拒绝逍遥并决定以自身为钥匙摧毁榜单",
+    "tags": [
+      "event",
+      "ch70"
+    ],
+    "importance": 6,
+    "chapter": 70,
+    "created_at": 1775135490.2824917
+  },
+  "ch70_event_3": {
+    "key": "ch70_event_3",
+    "category": "episodic",
+    "content": "神秘人告知需以珍视记忆为锚点才能掌控逆封",
+    "tags": [
+      "event",
+      "ch70"
+    ],
+    "importance": 6,
+    "chapter": 70,
+    "created_at": 1775135490.2828033
+  },
+  "ch80_event_0": {
+    "key": "ch80_event_0",
+    "category": "episodic",
+    "content": "林渊拒绝系统神位诱惑，选择破坏封神榜秩序",
+    "tags": [
+      "event",
+      "ch80"
+    ],
+    "importance": 6,
+    "chapter": 80,
+    "created_at": 1775135839.8768523
+  },
+  "ch80_event_1": {
+    "key": "ch80_event_1",
+    "category": "episodic",
+    "content": "林渊踏入虚空漩涡，开启通往封神榜核心的禁地",
+    "tags": [
+      "event",
+      "ch80"
+    ],
+    "importance": 6,
+    "chapter": 80,
+    "created_at": 1775135839.8777106
+  },
+  "ch80_event_2": {
+    "key": "ch80_event_2",
+    "category": "episodic",
+    "content": "神秘白衣女子现身，自称欢迎林渊回家",
+    "tags": [
+      "event",
+      "ch80"
+    ],
+    "importance": 6,
+    "chapter": 80,
+    "created_at": 1775135839.8783824
+  },
+  "ch90_event_0": {
+    "key": "ch90_event_0",
+    "category": "episodic",
+    "content": "林渊获得前世逆封者记忆，目睹其对抗神明的惨烈过程",
+    "tags": [
+      "event",
+      "ch90"
+    ],
+    "importance": 6,
+    "chapter": 90,
+    "created_at": 1775136262.949534
+  },
+  "ch90_event_1": {
+    "key": "ch90_event_1",
+    "category": "episodic",
+    "content": "残魂揭露景微真实身份为守护封神榜核心的守墓人",
+    "tags": [
+      "event",
+      "ch90"
+    ],
+    "importance": 6,
+    "chapter": 90,
+    "created_at": 1775136262.9500089
+  },
+  "ch90_event_2": {
+    "key": "ch90_event_2",
+    "category": "episodic",
+    "content": "林渊确认黑色莲花盛开即终局，决定不再信任任何人",
+    "tags": [
+      "event",
+      "ch90"
+    ],
+    "importance": 6,
+    "chapter": 90,
+    "created_at": 1775136262.950358
+  },
+  "ch90_event_3": {
+    "key": "ch90_event_3",
+    "category": "episodic",
+    "content": "林渊右手背黑眼纹身开启，灵力发生质变并改写规则",
+    "tags": [
+      "event",
+      "ch90"
+    ],
+    "importance": 6,
+    "chapter": 90,
+    "created_at": 1775136262.9507122
+  },
+  "ch100_event_0": {
+    "key": "ch100_event_0",
+    "category": "episodic",
+    "content": "林渊切断核心权限引发红色警报与空间震动",
+    "tags": [
+      "event",
+      "ch100"
+    ],
+    "importance": 6,
+    "chapter": 100,
+    "created_at": 1775136613.285493
+  },
+  "ch100_event_1": {
+    "key": "ch100_event_1",
+    "category": "episodic",
+    "content": "防御机器人启动自动索敌模式围攻林渊",
+    "tags": [
+      "event",
+      "ch100"
+    ],
+    "importance": 6,
+    "chapter": 100,
+    "created_at": 1775136613.28601
+  },
+  "ch100_event_2": {
+    "key": "ch100_event_2",
+    "category": "episodic",
+    "content": "林渊利用数据飞弹与逻辑干扰重创首台机体",
+    "tags": [
+      "event",
+      "ch100"
+    ],
+    "importance": 6,
+    "chapter": 100,
+    "created_at": 1775136613.2863722
+  },
+  "ch100_event_3": {
+    "key": "ch100_event_3",
+    "category": "episodic",
+    "content": "林渊强行突破防线摧毁最后一道墙壁",
+    "tags": [
+      "event",
+      "ch100"
+    ],
+    "importance": 6,
+    "chapter": 100,
+    "created_at": 1775136613.2867303
+  },
+  "ch100_event_4": {
+    "key": "ch100_event_4",
+    "category": "episodic",
+    "content": "林渊抵达出口遭遇刻有禁止通行的大金门",
+    "tags": [
+      "event",
+      "ch100"
+    ],
+    "importance": 6,
+    "chapter": 100,
+    "created_at": 1775136613.2870905
+  },
+  "ch110_event_0": {
+    "key": "ch110_event_0",
+    "category": "episodic",
+    "content": "林渊团队潜入中转站，发现守卫为无灵魂傀儡。",
+    "tags": [
+      "event",
+      "ch110"
+    ],
+    "importance": 6,
+    "chapter": 110,
+    "created_at": 1775137009.2127278
+  },
+  "ch110_event_1": {
+    "key": "ch110_event_1",
+    "category": "episodic",
+    "content": "苏清婉吸引火力，林渊与萧夜配合切断主塔能源。",
+    "tags": [
+      "event",
+      "ch110"
+    ],
+    "importance": 6,
+    "chapter": 110,
+    "created_at": 1775137009.2137277
+  },
+  "ch110_event_2": {
+    "key": "ch110_event_2",
+    "category": "episodic",
+    "content": "林渊利用黑色晶石破解青铜门防御机制。",
+    "tags": [
+      "event",
+      "ch110"
+    ],
+    "importance": 6,
+    "chapter": 110,
+    "created_at": 1775137009.214527
+  },
+  "ch110_event_3": {
+    "key": "ch110_event_3",
+    "category": "episodic",
+    "content": "秦无双突然现身，警告引爆信标将触发自毁程序。",
+    "tags": [
+      "event",
+      "ch110"
+    ],
+    "importance": 6,
+    "chapter": 110,
+    "created_at": 1775137009.215311
+  },
+  "ch120_event_0": {
+    "key": "ch120_event_0",
+    "category": "episodic",
+    "content": "林渊与化名为秦锋的白洛在峡谷对峙，双方爆发激战。",
+    "tags": [
+      "event",
+      "ch120"
+    ],
+    "importance": 6,
+    "chapter": 120,
+    "created_at": 1775137353.9052713
+  },
+  "ch120_event_1": {
+    "key": "ch120_event_1",
+    "category": "episodic",
+    "content": "秦锋揭露封神榜裂痕真相，并诱导林渊杀他以唤醒少年。",
+    "tags": [
+      "event",
+      "ch120"
+    ],
+    "importance": 6,
+    "chapter": 120,
+    "created_at": 1775137353.905847
+  },
+  "ch120_event_2": {
+    "key": "ch120_event_2",
+    "category": "episodic",
+    "content": "神秘少年现身，手中断裂剑滴血凝结出封神榜黑色符文。",
+    "tags": [
+      "event",
+      "ch120"
+    ],
+    "importance": 6,
+    "chapter": 120,
+    "created_at": 1775137353.9062562
+  },
+  "ch130_event_0": {
+    "key": "ch130_event_0",
+    "category": "episodic",
+    "content": "万神殿血尸魔修千夫指率怨灵潮围攻三人",
+    "tags": [
+      "event",
+      "ch130"
+    ],
+    "importance": 6,
+    "chapter": 130,
+    "created_at": 1775137763.67821
+  },
+  "ch130_event_1": {
+    "key": "ch130_event_1",
+    "category": "episodic",
+    "content": "秦无双施展破碎拳硬抗怨灵保护苏清婉",
+    "tags": [
+      "event",
+      "ch130"
+    ],
+    "importance": 6,
+    "chapter": 130,
+    "created_at": 1775137763.678826
+  },
+  "ch130_event_2": {
+    "key": "ch130_event_2",
+    "category": "episodic",
+    "content": "苏清婉遭修罗煞气侵蚀生命急速流逝",
+    "tags": [
+      "event",
+      "ch130"
+    ],
+    "importance": 6,
+    "chapter": 130,
+    "created_at": 1775137763.6792467
+  },
+  "ch130_event_3": {
+    "key": "ch130_event_3",
+    "category": "episodic",
+    "content": "林渊燃烧寿元激活封神榜碎片击退怨灵",
+    "tags": [
+      "event",
+      "ch130"
+    ],
+    "importance": 6,
+    "chapter": 130,
+    "created_at": 1775137763.67968
+  },
+  "ch130_event_4": {
+    "key": "ch130_event_4",
+    "category": "episodic",
+    "content": "罗刹将军降临强制终止战斗并现身",
+    "tags": [
+      "event",
+      "ch130"
+    ],
+    "importance": 6,
+    "chapter": 130,
+    "created_at": 1775137763.6800852
+  },
+  "ch130_event_5": {
+    "key": "ch130_event_5",
+    "category": "episodic",
+    "content": "罗刹将军认出林渊身份并质问令牌来源",
+    "tags": [
+      "event",
+      "ch130"
+    ],
+    "importance": 6,
+    "chapter": 130,
+    "created_at": 1775137763.6804886
+  },
+  "ch140_event_0": {
+    "key": "ch140_event_0",
+    "category": "episodic",
+    "content": "林渊白洛携神血结晶进入药铺，向老者换取逆鳞草",
+    "tags": [
+      "event",
+      "ch140"
+    ],
+    "importance": 6,
+    "chapter": 140,
+    "created_at": 1775138238.4204857
+  },
+  "ch140_event_1": {
+    "key": "ch140_event_1",
+    "category": "episodic",
+    "content": "老者识破白洛万神殿高阶将领身份并指责其背叛",
+    "tags": [
+      "event",
+      "ch140"
+    ],
+    "importance": 6,
+    "chapter": 140,
+    "created_at": 1775138238.421084
+  },
+  "ch140_event_2": {
+    "key": "ch140_event_2",
+    "category": "episodic",
+    "content": "林渊挡在白洛身前促成双方暂时结盟对抗危机",
+    "tags": [
+      "event",
+      "ch140"
+    ],
+    "importance": 6,
+    "chapter": 140,
+    "created_at": 1775138238.4215279
+  },
+  "ch140_event_3": {
+    "key": "ch140_event_3",
+    "category": "episodic",
+    "content": "老者以加入组织为条件交易逆鳞草给林渊",
+    "tags": [
+      "event",
+      "ch140"
+    ],
+    "importance": 6,
+    "chapter": 140,
+    "created_at": 1775138238.4219604
+  },
+  "ch140_event_4": {
+    "key": "ch140_event_4",
+    "category": "episodic",
+    "content": "林渊被迫签下包含前世名字的契约正式入伙",
+    "tags": [
+      "event",
+      "ch140"
+    ],
+    "importance": 6,
+    "chapter": 140,
+    "created_at": 1775138238.4223866
+  },
+  "ch140_event_5": {
+    "key": "ch140_event_5",
+    "category": "episodic",
+    "content": "封印松动导致未知强敌逼近，药铺陷入危机",
+    "tags": [
+      "event",
+      "ch140"
+    ],
+    "importance": 6,
+    "chapter": 140,
+    "created_at": 1775138238.422824
+  },
+  "ch150_event_0": {
+    "key": "ch150_event_0",
+    "category": "episodic",
+    "content": "十二主神投影降临，团队遭遇绝对力量压制。",
+    "tags": [
+      "event",
+      "ch150"
+    ],
+    "importance": 6,
+    "chapter": 150,
+    "created_at": 1775138708.7805595
+  },
+  "ch150_event_1": {
+    "key": "ch150_event_1",
+    "category": "episodic",
+    "content": "秦无双燃烧精血攻击投影，被瞬间重创昏迷。",
+    "tags": [
+      "event",
+      "ch150"
+    ],
+    "importance": 6,
+    "chapter": 150,
+    "created_at": 1775138708.781185
+  },
+  "ch150_event_2": {
+    "key": "ch150_event_2",
+    "category": "episodic",
+    "content": "林渊强行使用封神榜逆封投影，遭世界意志反噬。",
+    "tags": [
+      "event",
+      "ch150"
+    ],
+    "importance": 6,
+    "chapter": 150,
+    "created_at": 1775138708.781664
+  },
+  "ch150_event_3": {
+    "key": "ch150_event_3",
+    "category": "episodic",
+    "content": "林渊修为根基几乎被抽干，陷入濒死状态。",
+    "tags": [
+      "event",
+      "ch150"
+    ],
+    "importance": 6,
+    "chapter": 150,
+    "created_at": 1775138708.7821114
+  },
+  "ch150_event_4": {
+    "key": "ch150_event_4",
+    "category": "episodic",
+    "content": "主神投影开口嘲讽，揭示林渊也是规则的一部分。",
+    "tags": [
+      "event",
+      "ch150"
+    ],
+    "importance": 6,
+    "chapter": 150,
+    "created_at": 1775138708.7825625
+  },
+  "ch160_event_0": {
+    "key": "ch160_event_0",
+    "category": "episodic",
+    "content": "林渊持战神遗钥进入无信者环形殿堂，直面议长景微。",
+    "tags": [
+      "event",
+      "ch160"
+    ],
+    "importance": 6,
+    "chapter": 160,
+    "created_at": 1775139081.2602222
+  },
+  "ch160_event_1": {
+    "key": "ch160_event_1",
+    "category": "episodic",
+    "content": "景微揭露封神榜实为收割生灵养料的残酷真相。",
+    "tags": [
+      "event",
+      "ch160"
+    ],
+    "importance": 6,
+    "chapter": 160,
+    "created_at": 1775139081.2609024
+  },
+  "ch160_event_2": {
+    "key": "ch160_event_2",
+    "category": "episodic",
+    "content": "景微以半神权柄招安林渊，许诺共建新秩序。",
+    "tags": [
+      "event",
+      "ch160"
+    ],
+    "importance": 6,
+    "chapter": 160,
+    "created_at": 1775139081.2614088
+  },
+  "ch160_event_3": {
+    "key": "ch160_event_3",
+    "category": "episodic",
+    "content": "林渊撕碎金色请柬，拒绝成为傀儡或合作者。",
+    "tags": [
+      "event",
+      "ch160"
+    ],
+    "importance": 6,
+    "chapter": 160,
+    "created_at": 1775139081.2619114
+  },
+  "ch160_event_4": {
+    "key": "ch160_event_4",
+    "category": "episodic",
+    "content": "林渊无视杀意，径直走向悬浮王座上的暗红心脏。",
+    "tags": [
+      "event",
+      "ch160"
+    ],
+    "importance": 6,
+    "chapter": 160,
+    "created_at": 1775139081.262395
+  },
+  "ch170_event_0": {
+    "key": "ch170_event_0",
+    "category": "episodic",
+    "content": "林渊在实验室强行激活黑色令牌，剥离古老封印。",
+    "tags": [
+      "event",
+      "ch170"
+    ],
+    "importance": 6,
+    "chapter": 170,
+    "created_at": 1775139452.2641077
+  },
+  "ch170_event_1": {
+    "key": "ch170_event_1",
+    "category": "episodic",
+    "content": "令牌显现上古文字与红色印记，揭示逆封者历史。",
+    "tags": [
+      "event",
+      "ch170"
+    ],
+    "importance": 6,
+    "chapter": 170,
+    "created_at": 1775139452.2647698
+  },
+  "ch170_event_2": {
+    "key": "ch170_event_2",
+    "category": "episodic",
+    "content": "林渊解读信息确认其为上一任逆封者的遗物传承。",
+    "tags": [
+      "event",
+      "ch170"
+    ],
+    "importance": 6,
+    "chapter": 170,
+    "created_at": 1775139452.2652786
+  },
+  "ch170_event_3": {
+    "key": "ch170_event_3",
+    "category": "episodic",
+    "content": "令牌检测到非法入侵，投射神秘人脸投影苏醒。",
+    "tags": [
+      "event",
+      "ch170"
+    ],
+    "importance": 6,
+    "chapter": 170,
+    "created_at": 1775139452.2657864
+  },
+  "ch170_event_4": {
+    "key": "ch170_event_4",
+    "category": "episodic",
+    "content": "神秘投影开口宣告林渊的到来，暗示关键转折。",
+    "tags": [
+      "event",
+      "ch170"
+    ],
+    "importance": 6,
+    "chapter": 170,
+    "created_at": 1775139452.2662838
+  },
+  "ch180_event_0": {
+    "key": "ch180_event_0",
+    "category": "episodic",
+    "content": "萧夜徽章滚落，被无信者成员包围审讯",
+    "tags": [
+      "event",
+      "ch180"
+    ],
+    "importance": 6,
+    "chapter": 180,
+    "created_at": 1775139833.724802
+  },
+  "ch180_event_1": {
+    "key": "ch180_event_1",
+    "category": "episodic",
+    "content": "萧夜承认潜伏并揭露万神殿收割计划",
+    "tags": [
+      "event",
+      "ch180"
+    ],
+    "importance": 6,
+    "chapter": 180,
+    "created_at": 1775139833.7255292
+  },
+  "ch180_event_2": {
+    "key": "ch180_event_2",
+    "category": "episodic",
+    "content": "警报骤响，追兵提前抵达大厅",
+    "tags": [
+      "event",
+      "ch180"
+    ],
+    "importance": 6,
+    "chapter": 180,
+    "created_at": 1775139833.7260594
+  },
+  "ch180_event_3": {
+    "key": "ch180_event_3",
+    "category": "episodic",
+    "content": "萧夜请求最后机会以换取情报与生存",
+    "tags": [
+      "event",
+      "ch180"
+    ],
+    "importance": 6,
+    "chapter": 180,
+    "created_at": 1775139833.7266037
+  },
+  "ch190_event_0": {
+    "key": "ch190_event_0",
+    "category": "episodic",
+    "content": "林渊白洛突围进入无信者地下据点归零处",
+    "tags": [
+      "event",
+      "ch190"
+    ],
+    "importance": 6,
+    "chapter": 190,
+    "created_at": 1775140206.9717407
+  },
+  "ch190_event_1": {
+    "key": "ch190_event_1",
+    "category": "episodic",
+    "content": "苏清婉提出修改规则瓦解神权的舆论新战略",
+    "tags": [
+      "event",
+      "ch190"
+    ],
+    "importance": 6,
+    "chapter": 190,
+    "created_at": 1775140206.9724753
+  },
+  "ch190_event_2": {
+    "key": "ch190_event_2",
+    "category": "episodic",
+    "content": "众人达成共识启动星火计划与信仰渗透行动",
+    "tags": [
+      "event",
+      "ch190"
+    ],
+    "importance": 6,
+    "chapter": 190,
+    "created_at": 1775140206.9730418
+  },
+  "ch190_event_3": {
+    "key": "ch190_event_3",
+    "category": "episodic",
+    "content": "林渊决定闭关修复反噬创伤并统筹全局",
+    "tags": [
+      "event",
+      "ch190"
+    ],
+    "importance": 6,
+    "chapter": 190,
+    "created_at": 1775140206.9735909
+  },
+  "ch200_event_0": {
+    "key": "ch200_event_0",
+    "category": "episodic",
+    "content": "景微断笔后降下虚拟通牒，邀林渊三日后独赴源初境谈判",
+    "tags": [
+      "event",
+      "ch200"
+    ],
+    "importance": 6,
+    "chapter": 200,
+    "created_at": 1775140567.3413486
+  },
+  "ch200_event_1": {
+    "key": "ch200_event_1",
+    "category": "episodic",
+    "content": "赵铁柱等队员担忧是陷阱，提议召集主力支援或拼死抵抗",
+    "tags": [
+      "event",
+      "ch200"
+    ],
+    "importance": 6,
+    "chapter": 200,
+    "created_at": 1775140567.3421037
+  },
+  "ch200_event_2": {
+    "key": "ch200_event_2",
+    "category": "episodic",
+    "content": "林渊拒绝撤退与求援，判定此为试探底牌的博弈而非杀局",
+    "tags": [
+      "event",
+      "ch200"
+    ],
+    "importance": 6,
+    "chapter": 200,
+    "created_at": 1775140567.342689
+  },
+  "ch200_event_3": {
+    "key": "ch200_event_3",
+    "category": "episodic",
+    "content": "林渊命令小队留守并携带火种撤离，独自接受通牒前往源初境",
+    "tags": [
+      "event",
+      "ch200"
+    ],
+    "importance": 6,
+    "chapter": 200,
+    "created_at": 1775140567.3432596
+  },
+  "ch210_event_0": {
+    "key": "ch210_event_0",
+    "category": "episodic",
+    "content": "林渊因掠夺神性碎片遭反噬，手臂出现黑色侵蚀纹路",
+    "tags": [
+      "event",
+      "ch210"
+    ],
+    "importance": 6,
+    "chapter": 210,
+    "created_at": 1775140956.779363
+  },
+  "ch210_event_1": {
+    "key": "ch210_event_1",
+    "category": "episodic",
+    "content": "苏清婉治疗无效，确认林渊主动接纳了禁忌力量逆封",
+    "tags": [
+      "event",
+      "ch210"
+    ],
+    "importance": 6,
+    "chapter": 210,
+    "created_at": 1775140956.7801917
+  },
+  "ch210_event_2": {
+    "key": "ch210_event_2",
+    "category": "episodic",
+    "content": "罗撒警告主神已锁定林渊，营地不再安全需立即撤离",
+    "tags": [
+      "event",
+      "ch210"
+    ],
+    "importance": 6,
+    "chapter": 210,
+    "created_at": 1775140956.780802
+  },
+  "ch210_event_3": {
+    "key": "ch210_event_3",
+    "category": "episodic",
+    "content": "林渊决定制造假象转移至废弃古矿洞以躲避神罚",
+    "tags": [
+      "event",
+      "ch210"
+    ],
+    "importance": 6,
+    "chapter": 210,
+    "created_at": 1775140956.7813654
+  },
+  "ch210_event_4": {
+    "key": "ch210_event_4",
+    "category": "episodic",
+    "content": "林渊腰间令牌突然发烫并显示神秘废墟石碑画面",
+    "tags": [
+      "event",
+      "ch210"
+    ],
+    "importance": 6,
+    "chapter": 210,
+    "created_at": 1775140956.7819467
+  },
+  "ch220_event_0": {
+    "key": "ch220_event_0",
+    "category": "episodic",
+    "content": "林渊团队抵达遗忘深渊入口，发现被封印的巨石门。",
+    "tags": [
+      "event",
+      "ch220"
+    ],
+    "importance": 6,
+    "chapter": 220,
+    "created_at": 1775141381.9213023
+  },
+  "ch220_event_1": {
+    "key": "ch220_event_1",
+    "category": "episodic",
+    "content": "林渊强行逆封石门符文，以灵魂反噬为代价破阵。",
+    "tags": [
+      "event",
+      "ch220"
+    ],
+    "importance": 6,
+    "chapter": 220,
+    "created_at": 1775141381.922141
+  },
+  "ch220_event_2": {
+    "key": "ch220_event_2",
+    "category": "episodic",
+    "content": "石门开启后众人进入内部，发现悬浮着无数墓碑的虚空。",
+    "tags": [
+      "event",
+      "ch220"
+    ],
+    "importance": 6,
+    "chapter": 220,
+    "created_at": 1775141381.9227564
+  },
+  "ch230_event_0": {
+    "key": "ch230_event_0",
+    "category": "episodic",
+    "content": "萧夜切断铁闸逃离档案库，遭机甲封锁陷入绝境。",
+    "tags": [
+      "event",
+      "ch230"
+    ],
+    "importance": 6,
+    "chapter": 230,
+    "created_at": 1775141803.8891802
+  },
+  "ch230_event_1": {
+    "key": "ch230_event_1",
+    "category": "episodic",
+    "content": "苏清婉与林渊现身救援，击毁多台机甲掩护突围。",
+    "tags": [
+      "event",
+      "ch230"
+    ],
+    "importance": 6,
+    "chapter": 230,
+    "created_at": 1775141803.8900082
+  },
+  "ch230_event_2": {
+    "key": "ch230_event_2",
+    "category": "episodic",
+    "content": "三人利用电磁盲区进入无信者组织地下掩体。",
+    "tags": [
+      "event",
+      "ch230"
+    ],
+    "importance": 6,
+    "chapter": 230,
+    "created_at": 1775141803.890645
+  },
+  "ch230_event_3": {
+    "key": "ch230_event_3",
+    "category": "episodic",
+    "content": "林渊插入金色令牌验证密钥，触发系统异常警告。",
+    "tags": [
+      "event",
+      "ch230"
+    ],
+    "importance": 6,
+    "chapter": 230,
+    "created_at": 1775141803.8912551
+  },
+  "ch230_event_4": {
+    "key": "ch230_event_4",
+    "category": "episodic",
+    "content": "终端屏幕显示世界进度及倒计时，揭示结局预览。",
+    "tags": [
+      "event",
+      "ch230"
+    ],
+    "importance": 6,
+    "chapter": 230,
+    "created_at": 1775141803.8918698
+  },
+  "ch240_event_0": {
+    "key": "ch240_event_0",
+    "category": "episodic",
+    "content": "封神榜揭示真相：实为收割信仰的养蛊场与招聘容器",
+    "tags": [
+      "event",
+      "ch240"
+    ],
+    "importance": 6,
+    "chapter": 240,
+    "created_at": 1775142216.3504536
+  },
+  "ch240_event_1": {
+    "key": "ch240_event_1",
+    "category": "episodic",
+    "content": "林渊识破天道陷阱，拒绝成为新神主代行者",
+    "tags": [
+      "event",
+      "ch240"
+    ],
+    "importance": 6,
+    "chapter": 240,
+    "created_at": 1775142216.3512926
+  },
+  "ch240_event_2": {
+    "key": "ch240_event_2",
+    "category": "episodic",
+    "content": "林渊决定以逆封令牌重写规则，开启弑神之路",
+    "tags": [
+      "event",
+      "ch240"
+    ],
+    "importance": 6,
+    "chapter": 240,
+    "created_at": 1775142216.3519487
+  },
+  "ch250_event_0": {
+    "key": "ch250_event_0",
+    "category": "episodic",
+    "content": "苏清婉率无信者强攻天阙正门，制造混乱吸引神庭注意",
+    "tags": [
+      "event",
+      "ch250"
+    ],
+    "importance": 6,
+    "chapter": 250,
+    "created_at": 1775142559.0830386
+  },
+  "ch250_event_1": {
+    "key": "ch250_event_1",
+    "category": "episodic",
+    "content": "林渊小队经沈五通道潜入废弃矿坑核心区域",
+    "tags": [
+      "event",
+      "ch250"
+    ],
+    "importance": 6,
+    "chapter": 250,
+    "created_at": 1775142559.083999
+  },
+  "ch250_event_2": {
+    "key": "ch250_event_2",
+    "category": "episodic",
+    "content": "地下空间触发自毁机关与金属丝陷阱，众人险象环生",
+    "tags": [
+      "event",
+      "ch250"
+    ],
+    "importance": 6,
+    "chapter": 250,
+    "created_at": 1775142559.084699
+  },
+  "ch250_event_3": {
+    "key": "ch250_event_3",
+    "category": "episodic",
+    "content": "林渊利用逆封能力干扰阵法并引导坍塌方向救下队友",
+    "tags": [
+      "event",
+      "ch250"
+    ],
+    "importance": 6,
+    "chapter": 250,
+    "created_at": 1775142559.085445
+  },
+  "ch250_event_4": {
+    "key": "ch250_event_4",
+    "category": "episodic",
+    "content": "神秘人萧夜现身地下深处，其状态引发林渊极度警觉",
+    "tags": [
+      "event",
+      "ch250"
+    ],
+    "importance": 6,
+    "chapter": 250,
+    "created_at": 1775142559.0861306
+  },
+  "ch260_event_0": {
+    "key": "ch260_event_0",
+    "category": "episodic",
+    "content": "林渊进入维度夹缝的黑暗长廊，发现无数被抹除历史的无名墓碑。",
+    "tags": [
+      "event",
+      "ch260"
+    ],
+    "importance": 6,
+    "chapter": 260,
+    "created_at": 1775142922.6483655
+  },
+  "ch260_event_1": {
+    "key": "ch260_event_1",
+    "category": "episodic",
+    "content": "林渊在十倍以上重力压制下，利用逆封力量强行突破生存空间。",
+    "tags": [
+      "event",
+      "ch260"
+    ],
+    "importance": 6,
+    "chapter": 260,
+    "created_at": 1775142922.649298
+  },
+  "ch260_event_2": {
+    "key": "ch260_event_2",
+    "category": "episodic",
+    "content": "林渊以自毁经脉为代价，用逆封之力破坏机关兽防御并突入其体内。",
+    "tags": [
+      "event",
+      "ch260"
+    ],
+    "importance": 6,
+    "chapter": 260,
+    "created_at": 1775142922.6499972
+  },
+  "ch260_event_3": {
+    "key": "ch260_event_3",
+    "category": "episodic",
+    "content": "林渊摧毁机关兽守护者，获得与黑令牌共鸣的黑色碎片钥匙。",
+    "tags": [
+      "event",
+      "ch260"
+    ],
+    "importance": 6,
+    "chapter": 260,
+    "created_at": 1775142922.6506927
+  },
+  "ch270_event_0": {
+    "key": "ch270_event_0",
+    "category": "episodic",
+    "content": "林渊提议启动禁忌燃魂阵以解决资源短缺危机",
+    "tags": [
+      "event",
+      "ch270"
+    ],
+    "importance": 6,
+    "chapter": 270,
+    "created_at": 1775143291.1717246
+  },
+  "ch270_event_1": {
+    "key": "ch270_event_1",
+    "category": "episodic",
+    "content": "训练场遭遇外部入侵信号，确认内部有叛徒",
+    "tags": [
+      "event",
+      "ch270"
+    ],
+    "importance": 6,
+    "chapter": 270,
+    "created_at": 1775143291.1726694
+  },
+  "ch270_event_2": {
+    "key": "ch270_event_2",
+    "category": "episodic",
+    "content": "林渊决定奇袭天坠城获取纯净灵液与丹方",
+    "tags": [
+      "event",
+      "ch270"
+    ],
+    "importance": 6,
+    "chapter": 270,
+    "created_at": 1775143291.1734786
+  },
+  "ch270_event_3": {
+    "key": "ch270_event_3",
+    "category": "episodic",
+    "content": "观星台发现直通源初境的异常空间裂缝",
+    "tags": [
+      "event",
+      "ch270"
+    ],
+    "importance": 6,
+    "chapter": 270,
+    "created_at": 1775143291.1741993
+  },
+  "ch280_event_0": {
+    "key": "ch280_event_0",
+    "category": "episodic",
+    "content": "林渊释放混沌之力撕裂界壁，强行打开通往天界的金色光门。",
+    "tags": [
+      "event",
+      "ch280"
+    ],
+    "importance": 6,
+    "chapter": 280,
+    "created_at": 1775143685.7343464
+  },
+  "ch280_event_1": {
+    "key": "ch280_event_1",
+    "category": "episodic",
+    "content": "团队全员冲破法则剥离的屏障，成功抵达两层世界的夹缝之中。",
+    "tags": [
+      "event",
+      "ch280"
+    ],
+    "importance": 6,
+    "chapter": 280,
+    "created_at": 1775143685.7353165
+  },
+  "ch280_event_2": {
+    "key": "ch280_event_2",
+    "category": "episodic",
+    "content": "林渊斩断对下界的牵挂，带领众人决定深入未知的黑暗猎场。",
+    "tags": [
+      "event",
+      "ch280"
+    ],
+    "importance": 6,
+    "chapter": 280,
+    "created_at": 1775143685.7361498
+  },
+  "ch280_event_3": {
+    "key": "ch280_event_3",
+    "category": "episodic",
+    "content": "林渊踏入光门瞬间，意识深处响起神秘低语‘欢迎回家’。",
+    "tags": [
+      "event",
+      "ch280"
+    ],
+    "importance": 6,
+    "chapter": 280,
+    "created_at": 1775143685.7368867
+  },
+  "ch290_event_0": {
+    "key": "ch290_event_0",
+    "category": "episodic",
+    "content": "残魂揭示封神榜为锁死秩序的源代码，自身因反抗被吞噬。",
+    "tags": [
+      "event",
+      "ch290"
+    ],
+    "importance": 6,
+    "chapter": 290,
+    "created_at": 1775144093.5145214
+  },
+  "ch290_event_1": {
+    "key": "ch290_event_1",
+    "category": "episodic",
+    "content": "系统要求献祭苏清婉作为关键变量以换取通行权限。",
+    "tags": [
+      "event",
+      "ch290"
+    ],
+    "importance": 6,
+    "chapter": 290,
+    "created_at": 1775144093.5156105
+  },
+  "ch290_event_2": {
+    "key": "ch290_event_2",
+    "category": "episodic",
+    "content": "林渊权衡后准备牺牲苏清婉，萧夜拔刀阻止并威胁杀他。",
+    "tags": [
+      "event",
+      "ch290"
+    ],
+    "importance": 6,
+    "chapter": 290,
+    "created_at": 1775144093.5163565
+  },
+  "ch300_event_0": {
+    "key": "ch300_event_0",
+    "category": "episodic",
+    "content": "林渊发现父母及萧璃被神明列为献祭燃料的真相",
+    "tags": [
+      "event",
+      "ch300"
+    ],
+    "importance": 6,
+    "chapter": 300,
+    "created_at": 1775144474.6700044
+  },
+  "ch300_event_1": {
+    "key": "ch300_event_1",
+    "category": "episodic",
+    "content": "林渊决定公开大劫名单以切断神明力量来源",
+    "tags": [
+      "event",
+      "ch300"
+    ],
+    "importance": 6,
+    "chapter": 300,
+    "created_at": 1775144474.671057
+  },
+  "ch300_event_2": {
+    "key": "ch300_event_2",
+    "category": "episodic",
+    "content": "沈五指出信号发射端位于禁地遗忘深渊",
+    "tags": [
+      "event",
+      "ch300"
+    ],
+    "importance": 6,
+    "chapter": 300,
+    "created_at": 1775144474.6718476
+  },
+  "ch300_event_3": {
+    "key": "ch300_event_3",
+    "category": "episodic",
+    "content": "林渊拒绝保险令牌，决意独自前往遗忘深渊",
+    "tags": [
+      "event",
+      "ch300"
+    ],
+    "importance": 6,
+    "chapter": 300,
+    "created_at": 1775144474.672593
+  },
+  "ch310_event_0": {
+    "key": "ch310_event_0",
+    "category": "episodic",
+    "content": "林渊强行逆封，开始上传大劫名单文件",
+    "tags": [
+      "event",
+      "ch310"
+    ],
+    "importance": 6,
+    "chapter": 310,
+    "created_at": 1775144864.848881
+  },
+  "ch310_event_1": {
+    "key": "ch310_event_1",
+    "category": "episodic",
+    "content": "系统启动防御协议，程序士兵围攻林渊意识",
+    "tags": [
+      "event",
+      "ch310"
+    ],
+    "importance": 6,
+    "chapter": 310,
+    "created_at": 1775144864.8499315
+  },
+  "ch310_event_2": {
+    "key": "ch310_event_2",
+    "category": "episodic",
+    "content": "苏清婉斩开空间通道，协助突破数据桎梏",
+    "tags": [
+      "event",
+      "ch310"
+    ],
+    "importance": 6,
+    "chapter": 310,
+    "created_at": 1775144864.850732
+  },
+  "ch310_event_3": {
+    "key": "ch310_event_3",
+    "category": "episodic",
+    "content": "林渊砸碎晶石引爆波动，击溃黑色光墙封锁",
+    "tags": [
+      "event",
+      "ch310"
+    ],
+    "importance": 6,
+    "chapter": 310,
+    "created_at": 1775144864.8515983
+  },
+  "ch310_event_4": {
+    "key": "ch310_event_4",
+    "category": "episodic",
+    "content": "传输进度卡在99%，屏幕弹出最终确认弹窗",
+    "tags": [
+      "event",
+      "ch310"
+    ],
+    "importance": 6,
+    "chapter": 310,
+    "created_at": 1775144864.8523753
+  },
+  "ch320_event_0": {
+    "key": "ch320_event_0",
+    "category": "episodic",
+    "content": "系统界面崩塌，封神榜秩序泄露引发空间扭曲与反噬",
+    "tags": [
+      "event",
+      "ch320"
+    ],
+    "importance": 6,
+    "chapter": 320,
+    "created_at": 1775145203.361683
+  },
+  "ch320_event_1": {
+    "key": "ch320_event_1",
+    "category": "episodic",
+    "content": "景微现身试图修补裂缝，双方就神权本质激烈对峙",
+    "tags": [
+      "event",
+      "ch320"
+    ],
+    "importance": 6,
+    "chapter": 320,
+    "created_at": 1775145203.3627102
+  },
+  "ch320_event_2": {
+    "key": "ch320_event_2",
+    "category": "episodic",
+    "content": "林渊斩断锁链并宣告神权失效，触发规则改写异象",
+    "tags": [
+      "event",
+      "ch320"
+    ],
+    "importance": 6,
+    "chapter": 320,
+    "created_at": 1775145203.3634903
+  },
+  "ch320_event_3": {
+    "key": "ch320_event_3",
+    "category": "episodic",
+    "content": "旧秩序抗拒导致空间崩塌，景微揭示源初境主人存在",
+    "tags": [
+      "event",
+      "ch320"
+    ],
+    "importance": 6,
+    "chapter": 320,
+    "created_at": 1775145203.3642895
+  },
+  "ch330_event_0": {
+    "key": "ch330_event_0",
+    "category": "episodic",
+    "content": "林渊以意志强行注入金色光影，对抗系统清除指令。",
+    "tags": [
+      "event",
+      "ch330"
+    ],
+    "importance": 6,
+    "chapter": 330,
+    "created_at": 1775145543.5445633
+  },
+  "ch330_event_1": {
+    "key": "ch330_event_1",
+    "category": "episodic",
+    "content": "空白名字显现为“林渊”，系统判定其为病毒试图格式化。",
+    "tags": [
+      "event",
+      "ch330"
+    ],
+    "importance": 6,
+    "chapter": 330,
+    "created_at": 1775145543.5455978
+  },
+  "ch330_event_2": {
+    "key": "ch330_event_2",
+    "category": "episodic",
+    "content": "林渊主动敞窍穴承受神性反噬，重塑肉身并确立身份。",
+    "tags": [
+      "event",
+      "ch330"
+    ],
+    "importance": 6,
+    "chapter": 330,
+    "created_at": 1775145543.5464115
+  },
+  "ch330_event_3": {
+    "key": "ch330_event_3",
+    "category": "episodic",
+    "content": "系统认证林渊为“原初逆封者”，赋予其管理员权限。",
+    "tags": [
+      "event",
+      "ch330"
+    ],
+    "importance": 6,
+    "chapter": 330,
+    "created_at": 1775145543.5473065
+  },
+  "ch330_event_4": {
+    "key": "ch330_event_4",
+    "category": "episodic",
+    "content": "林渊获得黑色令牌“逆封之钥”，知晓封神榜残酷真相。",
+    "tags": [
+      "event",
+      "ch330"
+    ],
+    "importance": 6,
+    "chapter": 330,
+    "created_at": 1775145543.5481255
+  },
+  "ch330_event_5": {
+    "key": "ch330_event_5",
+    "category": "episodic",
+    "content": "林渊接纳契约成为执棋者，彻底摆脱凡人寿命限制。",
+    "tags": [
+      "event",
+      "ch330"
+    ],
+    "importance": 6,
+    "chapter": 330,
+    "created_at": 1775145543.5489328
+  },
+  "ch340_event_0": {
+    "key": "ch340_event_0",
+    "category": "episodic",
+    "content": "林渊启动不可逆操作，倒计时归零后身体开始溶解消散。",
+    "tags": [
+      "event",
+      "ch340"
+    ],
+    "importance": 6,
+    "chapter": 340,
+    "created_at": 1775145873.7863107
+  },
+  "ch340_event_1": {
+    "key": "ch340_event_1",
+    "category": "episodic",
+    "content": "林渊在消失前向万里外的苏清婉发送精神告别信息。",
+    "tags": [
+      "event",
+      "ch340"
+    ],
+    "importance": 6,
+    "chapter": 340,
+    "created_at": 1775145873.7874234
+  },
+  "ch340_event_2": {
+    "key": "ch340_event_2",
+    "category": "episodic",
+    "content": "林渊按下按钮导致封神榜机制失效，神座支柱被拔除一角。",
+    "tags": [
+      "event",
+      "ch340"
+    ],
+    "importance": 6,
+    "chapter": 340,
+    "created_at": 1775145873.7882664
+  },
+  "ch340_event_3": {
+    "key": "ch340_event_3",
+    "category": "episodic",
+    "content": "林渊意识即将彻底消散时，听到神秘少年呼唤“哥哥”。",
+    "tags": [
+      "event",
+      "ch340"
+    ],
+    "importance": 6,
+    "chapter": 340,
+    "created_at": 1775145873.789188
+  },
+  "ch350_event_0": {
+    "key": "ch350_event_0",
+    "category": "episodic",
+    "content": "林渊摘取神树因果果实，承受时间重量反噬",
+    "tags": [
+      "event",
+      "ch350"
+    ],
+    "importance": 6,
+    "chapter": 350,
+    "created_at": 1775146242.1296847
+  },
+  "ch350_event_1": {
+    "key": "ch350_event_1",
+    "category": "episodic",
+    "content": "解析果实功能为强制定格时间的战略锚点",
+    "tags": [
+      "event",
+      "ch350"
+    ],
+    "importance": 6,
+    "chapter": 350,
+    "created_at": 1775146242.1308577
+  },
+  "ch350_event_2": {
+    "key": "ch350_event_2",
+    "category": "episodic",
+    "content": "确立使用代价：消耗一半本源且仅存三息",
+    "tags": [
+      "event",
+      "ch350"
+    ],
+    "importance": 6,
+    "chapter": 350,
+    "created_at": 1775146242.1317267
+  },
+  "ch350_event_3": {
+    "key": "ch350_event_3",
+    "category": "episodic",
+    "content": "万域盟友集结于神树下准备最终决战",
+    "tags": [
+      "event",
+      "ch350"
+    ],
+    "importance": 6,
+    "chapter": 350,
+    "created_at": 1775146242.1325722
+  },
+  "ch350_event_4": {
+    "key": "ch350_event_4",
+    "category": "episodic",
+    "content": "景微在空间裂缝中复活并现身嘲讽",
+    "tags": [
+      "event",
+      "ch350"
+    ],
+    "importance": 6,
+    "chapter": 350,
+    "created_at": 1775146242.1334124
+  },
+  "ch360_event_0": {
+    "key": "ch360_event_0",
+    "category": "episodic",
+    "content": "苏清婉切断灵脉供阵，防线能量储备仅剩极限",
+    "tags": [
+      "event",
+      "ch360"
+    ],
+    "importance": 6,
+    "chapter": 360,
+    "created_at": 1775146566.894596
+  },
+  "ch360_event_1": {
+    "key": "ch360_event_1",
+    "category": "episodic",
+    "content": "林渊融合高维心脏，体内规则权柄前所未有的清晰",
+    "tags": [
+      "event",
+      "ch360"
+    ],
+    "importance": 6,
+    "chapter": 360,
+    "created_at": 1775146566.8956945
+  },
+  "ch360_event_2": {
+    "key": "ch360_event_2",
+    "category": "episodic",
+    "content": "林渊与战友告别，确立成为钥匙与锁的献祭决心",
+    "tags": [
+      "event",
+      "ch360"
+    ],
+    "importance": 6,
+    "chapter": 360,
+    "created_at": 1775146566.89657
+  },
+  "ch360_event_3": {
+    "key": "ch360_event_3",
+    "category": "episodic",
+    "content": "战场陷入诡静，封神榜意志威压降临俯瞰众生",
+    "tags": [
+      "event",
+      "ch360"
+    ],
+    "importance": 6,
+    "chapter": 360,
+    "created_at": 1775146566.897427
+  },
+  "ch360_event_4": {
+    "key": "ch360_event_4",
+    "category": "episodic",
+    "content": "林渊宣告游戏结束，准备引爆自身对抗神权核心",
+    "tags": [
+      "event",
+      "ch360"
+    ],
+    "importance": 6,
+    "chapter": 360,
+    "created_at": 1775146566.8983
+  },
+  "ch370_event_0": {
+    "key": "ch370_event_0",
+    "category": "episodic",
+    "content": "林渊触碰石碑进入时间缝隙，因果与行动被彻底冻结",
+    "tags": [
+      "event",
+      "ch370"
+    ],
+    "importance": 6,
+    "chapter": 370,
+    "created_at": 1775146963.0065436
+  },
+  "ch370_event_1": {
+    "key": "ch370_event_1",
+    "category": "episodic",
+    "content": "林渊在静止虚空中发现上一位逆封者黑曜石墓碑",
+    "tags": [
+      "event",
+      "ch370"
+    ],
+    "importance": 6,
+    "chapter": 370,
+    "created_at": 1775146963.007717
+  },
+  "ch370_event_2": {
+    "key": "ch370_event_2",
+    "category": "episodic",
+    "content": "林渊得知封神榜利用反抗者作为压力测试燃料的真相",
+    "tags": [
+      "event",
+      "ch370"
+    ],
+    "importance": 6,
+    "chapter": 370,
+    "created_at": 1775146963.0086317
+  },
+  "ch370_event_3": {
+    "key": "ch370_event_3",
+    "category": "episodic",
+    "content": "林渊拒绝宿命轮回，决定以不信者身份撕开闭环",
+    "tags": [
+      "event",
+      "ch370"
+    ],
+    "importance": 6,
+    "chapter": 370,
+    "created_at": 1775146963.0095224
+  },
+  "ch370_event_4": {
+    "key": "ch370_event_4",
+    "category": "episodic",
+    "content": "时间恢复流动，林渊掌心燃起逆火宣告求变而非求生",
+    "tags": [
+      "event",
+      "ch370"
+    ],
+    "importance": 6,
+    "chapter": 370,
+    "created_at": 1775146963.0103977
+  },
+  "ch380_event_0": {
+    "key": "ch380_event_0",
+    "category": "episodic",
+    "content": "林渊与幸存者酒馆告别，祭奠牺牲的萧夜并鼓舞士气。",
+    "tags": [
+      "event",
+      "ch380"
+    ],
+    "importance": 6,
+    "chapter": 380,
+    "created_at": 1775147357.465064
+  },
+  "ch380_event_1": {
+    "key": "ch380_event_1",
+    "category": "episodic",
+    "content": "秦无双为探查深渊真相独自离去，留下神秘徽章给林渊。",
+    "tags": [
+      "event",
+      "ch380"
+    ],
+    "importance": 6,
+    "chapter": 380,
+    "created_at": 1775147357.4663098
+  },
+  "ch380_event_2": {
+    "key": "ch380_event_2",
+    "category": "episodic",
+    "content": "沈五获准独立经营情报商会，确立联盟新规则。",
+    "tags": [
+      "event",
+      "ch380"
+    ],
+    "importance": 6,
+    "chapter": 380,
+    "created_at": 1775147357.4672463
+  },
+  "ch380_event_3": {
+    "key": "ch380_event_3",
+    "category": "episodic",
+    "content": "林渊在萧夜墓前发现神秘脚印及“祂醒了”的符文警示。",
+    "tags": [
+      "event",
+      "ch380"
+    ],
+    "importance": 6,
+    "chapter": 380,
+    "created_at": 1775147357.468167
+  },
+  "ch390_event_0": {
+    "key": "ch390_event_0",
+    "category": "episodic",
+    "content": "林渊传说在凡间蔓延，引发关于救世主与魔头的激烈争论",
+    "tags": [
+      "event",
+      "ch390"
+    ],
+    "importance": 6,
+    "chapter": 390,
+    "created_at": 1775147755.7861726
+  },
+  "ch390_event_1": {
+    "key": "ch390_event_1",
+    "category": "episodic",
+    "content": "黑铁城百姓集资修建无面巨像纪念林渊，象征自由意志萌芽",
+    "tags": [
+      "event",
+      "ch390"
+    ],
+    "importance": 6,
+    "chapter": 390,
+    "created_at": 1775147755.7874231
+  },
+  "ch390_event_2": {
+    "key": "ch390_event_2",
+    "category": "episodic",
+    "content": "传统教派试图恢复神权统治，引发信徒与逆封者的冲突",
+    "tags": [
+      "event",
+      "ch390"
+    ],
+    "importance": 6,
+    "chapter": 390,
+    "created_at": 1775147755.7884831
+  },
+  "ch390_event_3": {
+    "key": "ch390_event_3",
+    "category": "episodic",
+    "content": "旧神权复苏金光被雕像无形壁垒阻挡，信仰彻底转向凡人",
+    "tags": [
+      "event",
+      "ch390"
+    ],
+    "importance": 6,
+    "chapter": 390,
+    "created_at": 1775147755.7894275
+  },
+  "ch400_event_0": {
+    "key": "ch400_event_0",
+    "category": "episodic",
+    "content": "第一缕金光刺破阴霾，宣告神权压制终结。",
+    "tags": [
+      "event",
+      "ch400"
+    ],
+    "importance": 6,
+    "chapter": 400,
+    "created_at": 1775148123.5397089
+  },
+  "ch400_event_1": {
+    "key": "ch400_event_1",
+    "category": "episodic",
+    "content": "苏清婉见证万域居民苏醒，不再跪拜神明。",
+    "tags": [
+      "event",
+      "ch400"
+    ],
+    "importance": 6,
+    "chapter": 400,
+    "created_at": 1775148123.5410008
+  },
+  "ch400_event_2": {
+    "key": "ch400_event_2",
+    "category": "episodic",
+    "content": "林渊肉身消亡，其牺牲换来自然法则回归。",
+    "tags": [
+      "event",
+      "ch400"
+    ],
+    "importance": 6,
+    "chapter": 400,
+    "created_at": 1775148123.5419762
+  },
+  "ch400_event_3": {
+    "key": "ch400_event_3",
+    "category": "episodic",
+    "content": "园丁种下无神树，象征众生自主命运开启。",
+    "tags": [
+      "event",
+      "ch400"
+    ],
+    "importance": 6,
+    "chapter": 400,
+    "created_at": 1775148123.5429366
+  },
+  "ch400_event_4": {
+    "key": "ch400_event_4",
+    "category": "episodic",
+    "content": "破碎空间自行愈合，多元宇宙秩序重建完成。",
+    "tags": [
+      "event",
+      "ch400"
+    ],
+    "importance": 6,
+    "chapter": 400,
+    "created_at": 1775148123.5438974
+  }
+}

@@ -33,3 +33,15 @@ ENV/
 # User specific
 data/
 output/
+
+# Generated novels in root (use output/ dir)
+*_完整版.txt
+
+# Temp scripts
+run_novel.py
+run_longnovel.py
+
+# IDE
+.idea/
+.vscode/
+*.swp
